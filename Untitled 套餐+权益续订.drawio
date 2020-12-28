@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2020-12-28T03:27:21.640Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" version="14.1.2" etag="dxLLDBmQXSLu4Huq3bdt" type="github"><diagram id="xKo8rje_FZ6b2Z135wZO">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-28T10:20:41.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="-WTk2QdZXAv5QViSHZ9T" version="14.1.2" type="github">
+  <diagram id="xKo8rje_FZ6b2Z135wZO" name="Page-1">
+    <mxGraphModel dx="942" dy="1702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kOrd12b2ob8__CHniCpx-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kOrd12b2ob8__CHniCpx-1" target="kOrd12b2ob8__CHniCpx-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kOrd12b2ob8__CHniCpx-1" value="OSPF023/续订文件" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=standard;symbol=general;" vertex="1" parent="1">
+          <mxGeometry x="130" y="10" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kOrd12b2ob8__CHniCpx-2" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=throwing;symbol=general;" vertex="1" parent="1">
+          <mxGeometry x="705" y="805" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kOrd12b2ob8__CHniCpx-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kOrd12b2ob8__CHniCpx-5" target="kOrd12b2ob8__CHniCpx-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kOrd12b2ob8__CHniCpx-5" value="根据手机号、商品编码、省实例ID查询套餐信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kOrd12b2ob8__CHniCpx-12" value="套餐" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kOrd12b2ob8__CHniCpx-9" target="kOrd12b2ob8__CHniCpx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kOrd12b2ob8__CHniCpx-9" value="续订类型&lt;br&gt;判断" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kOrd12b2ob8__CHniCpx-20" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kOrd12b2ob8__CHniCpx-17" target="kOrd12b2ob8__CHniCpx-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kOrd12b2ob8__CHniCpx-27" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kOrd12b2ob8__CHniCpx-17" target="kOrd12b2ob8__CHniCpx-2">
+          <mxGeometry x="-0.5613" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kOrd12b2ob8__CHniCpx-17" value="&lt;span&gt;判断订单状体是否可续订&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kOrd12b2ob8__CHniCpx-23" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kOrd12b2ob8__CHniCpx-19" target="kOrd12b2ob8__CHniCpx-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kOrd12b2ob8__CHniCpx-28" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kOrd12b2ob8__CHniCpx-19" target="kOrd12b2ob8__CHniCpx-2">
+          <mxGeometry x="-0.4472" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kOrd12b2ob8__CHniCpx-19" value="&lt;span&gt;判断本周期是否已续订&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kOrd12b2ob8__CHniCpx-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kOrd12b2ob8__CHniCpx-22" target="kOrd12b2ob8__CHniCpx-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kOrd12b2ob8__CHniCpx-29" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kOrd12b2ob8__CHniCpx-22" target="kOrd12b2ob8__CHniCpx-2">
+          <mxGeometry x="-0.2527" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kOrd12b2ob8__CHniCpx-22" value="&lt;span&gt;判断续订周期是否正确&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kOrd12b2ob8__CHniCpx-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kOrd12b2ob8__CHniCpx-24" target="kOrd12b2ob8__CHniCpx-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kOrd12b2ob8__CHniCpx-24" value="新增续订记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
