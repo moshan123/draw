@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-29T06:42:11.191Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="dx9hzlXnygrl5MWNErq1" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-29T06:57:30.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="jaV-dHKrY198yjerWAAm" version="14.1.2" type="github">
   <diagram id="OgV8At9cOp2wTqHFyp1Q" name="Page-1">
     <mxGraphModel dx="942" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -182,6 +182,18 @@
         </mxCell>
         <mxCell id="Hu3Yx2KmRZgjXhI8Y2ag-37" value="发送订单轨迹MQ" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="490" y="1955" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VUyrlR1kTBsmthqAl_uk-9" value="1.通过能开订单号查询主订单&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;2.通过手机号+产品ID查询主订单&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="450" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VUyrlR1kTBsmthqAl_uk-11" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;dashed=1;exitX=0;exitY=0;exitDx=15;exitDy=70;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VUyrlR1kTBsmthqAl_uk-9" target="pLbMeJme8Y_Jl0HePabT-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="630" as="sourcePoint" />
+            <mxPoint x="510" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="115" y="520" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
