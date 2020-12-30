@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-30T08:46:12.280Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="CtHB6jx2UHjfrFxUZzWK" version="14.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-30T09:26:32.634Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="qafa8PbITuGqWkeCE0WU" version="14.1.3" type="github">
   <diagram id="OLpmRbxoKpBxzqkspNee" name="Page-1">
-    <mxGraphModel dx="1185" dy="2973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="2932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,10 +72,8 @@
             <mxPoint x="120" y="-680" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CTi2nCjmbjgdPDQ9QbI_-32" value="小于" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CTi2nCjmbjgdPDQ9QbI_-19" target="CTi2nCjmbjgdPDQ9QbI_-24" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="-720" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="BhMj_acDc-M29e1emYOk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CTi2nCjmbjgdPDQ9QbI_-19" target="BhMj_acDc-M29e1emYOk-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CTi2nCjmbjgdPDQ9QbI_-19" value="判断数据合约失效时间是否&amp;gt;请参中的合约时间" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="-810" width="80" height="80" as="geometry" />
@@ -83,7 +81,7 @@
         <mxCell id="CTi2nCjmbjgdPDQ9QbI_-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CTi2nCjmbjgdPDQ9QbI_-21" target="CTi2nCjmbjgdPDQ9QbI_-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CTi2nCjmbjgdPDQ9QbI_-21" value="合约订单退订处理订单失效时间取（&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 10pt ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;validTime&lt;/span&gt;）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CTi2nCjmbjgdPDQ9QbI_-21" value="合约订单退订处理，订单失效时间取（&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 10pt ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;validTime&lt;/span&gt;）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="-570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CTi2nCjmbjgdPDQ9QbI_-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CTi2nCjmbjgdPDQ9QbI_-24" target="CTi2nCjmbjgdPDQ9QbI_-26" edge="1">
@@ -101,7 +99,7 @@
         <mxCell id="BhMj_acDc-M29e1emYOk-3" value="大于" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BhMj_acDc-M29e1emYOk-1" target="CTi2nCjmbjgdPDQ9QbI_-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BhMj_acDc-M29e1emYOk-5" value="大于" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BhMj_acDc-M29e1emYOk-1" target="BhMj_acDc-M29e1emYOk-4">
+        <mxCell id="BhMj_acDc-M29e1emYOk-5" value="小于" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BhMj_acDc-M29e1emYOk-1" target="BhMj_acDc-M29e1emYOk-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BhMj_acDc-M29e1emYOk-1" value="判断已订购订单的失效时间是否小于新套餐的订购时间" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -115,6 +113,12 @@
             <mxPoint x="430" y="-750" as="sourcePoint" />
             <mxPoint x="480" y="-800" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BhMj_acDc-M29e1emYOk-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BhMj_acDc-M29e1emYOk-7" target="CTi2nCjmbjgdPDQ9QbI_-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BhMj_acDc-M29e1emYOk-7" value="&lt;span&gt;合约订单退订处理，订单失效不变&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
