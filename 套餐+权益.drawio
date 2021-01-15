@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-06T02:54:54.630Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="Z4e3NLMuEq5B75LwvhXO" version="14.1.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-15T10:57:03.861Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="nvfNz1Tbe2bZFUHH0Ojo" version="14.1.9" type="github" pages="3">
   <diagram id="OgV8At9cOp2wTqHFyp1Q" name="套餐+合约的订购">
-    <mxGraphModel dx="2009" dy="1751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2489" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,7 +85,7 @@
         <mxCell id="Hu3Yx2KmRZgjXhI8Y2ag-13" value="不冲突" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Hu3Yx2KmRZgjXhI8Y2ag-1" target="Hu3Yx2KmRZgjXhI8Y2ag-6" edge="1">
           <mxGeometry x="-0.5467" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="760" y="1380" />
+              <mxPoint x="750" y="1380" />
               <mxPoint x="290" y="1380" />
             </Array>
             <mxPoint as="offset" />
@@ -283,7 +283,7 @@
         <mxCell id="c7PuPgjgo78gl8ul6k84-36" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;redis通过手机号+能开商品编码加锁&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="250" y="-120" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DXuq3Fp1_VnuWL4r6rDe-5" value="不存在" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DXuq3Fp1_VnuWL4r6rDe-3" target="Hu3Yx2KmRZgjXhI8Y2ag-6">
+        <mxCell id="DXuq3Fp1_VnuWL4r6rDe-5" value="不存在" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DXuq3Fp1_VnuWL4r6rDe-3" target="Hu3Yx2KmRZgjXhI8Y2ag-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-60" y="970" />
@@ -291,41 +291,41 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DXuq3Fp1_VnuWL4r6rDe-7" value="存在" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DXuq3Fp1_VnuWL4r6rDe-3" target="DXuq3Fp1_VnuWL4r6rDe-6">
+        <mxCell id="DXuq3Fp1_VnuWL4r6rDe-7" value="存在" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DXuq3Fp1_VnuWL4r6rDe-3" target="DXuq3Fp1_VnuWL4r6rDe-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DXuq3Fp1_VnuWL4r6rDe-3" value="是否存在合约订单" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DXuq3Fp1_VnuWL4r6rDe-3" value="是否存在合约订单" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="930" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DXuq3Fp1_VnuWL4r6rDe-9" value="冲突" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DXuq3Fp1_VnuWL4r6rDe-6" target="DXuq3Fp1_VnuWL4r6rDe-8">
+        <mxCell id="DXuq3Fp1_VnuWL4r6rDe-9" value="冲突" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DXuq3Fp1_VnuWL4r6rDe-6" target="DXuq3Fp1_VnuWL4r6rDe-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DXuq3Fp1_VnuWL4r6rDe-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DXuq3Fp1_VnuWL4r6rDe-6" target="Hu3Yx2KmRZgjXhI8Y2ag-6">
+        <mxCell id="DXuq3Fp1_VnuWL4r6rDe-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DXuq3Fp1_VnuWL4r6rDe-6" target="Hu3Yx2KmRZgjXhI8Y2ag-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DXuq3Fp1_VnuWL4r6rDe-11" value="不冲突" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DXuq3Fp1_VnuWL4r6rDe-10">
+        <mxCell id="DXuq3Fp1_VnuWL4r6rDe-11" value="不冲突" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DXuq3Fp1_VnuWL4r6rDe-10" vertex="1" connectable="0">
           <mxGeometry x="-0.7834" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DXuq3Fp1_VnuWL4r6rDe-6" value="合约订单的失效时间是否冲突" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DXuq3Fp1_VnuWL4r6rDe-6" value="合约订单的失效时间是否冲突" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="1090" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DXuq3Fp1_VnuWL4r6rDe-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DXuq3Fp1_VnuWL4r6rDe-8" target="Hu3Yx2KmRZgjXhI8Y2ag-6">
+        <mxCell id="DXuq3Fp1_VnuWL4r6rDe-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DXuq3Fp1_VnuWL4r6rDe-8" target="Hu3Yx2KmRZgjXhI8Y2ag-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="80" y="1581" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DXuq3Fp1_VnuWL4r6rDe-8" value="更新合约订单,失效时间取订购合于的生效时间(&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(8 , 8 , 8) ; font-family: &amp;#34;jetbrains mono&amp;#34;&quot;&gt;activityEffTime&lt;/span&gt;&lt;span&gt;)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
+        <mxCell id="DXuq3Fp1_VnuWL4r6rDe-8" value="更新合约订单,失效时间取订购合于的生效时间(&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(8 , 8 , 8) ; font-family: &amp;#34;jetbrains mono&amp;#34;&quot;&gt;activityEffTime&lt;/span&gt;&lt;span&gt;)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="1250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="BaK5y93M72JjTEx6FSGH" name="套餐+合约的退订">
-    <mxGraphModel dx="2009" dy="2920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2489" dy="3100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="CDkCgY4mQXSwlOJmiMWh-0" />
         <mxCell id="CDkCgY4mQXSwlOJmiMWh-1" parent="CDkCgY4mQXSwlOJmiMWh-0" />
