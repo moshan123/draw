@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-10T02:06:11.247Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="aBCIdlnyTMUTZ6mQ0BOJ" version="14.4.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-03-10T02:06:45.727Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="dSSoD6rYIz0RwqYC6Nfj" version="14.4.3" type="github" pages="7">
   <diagram name="产品结算出资方清空配置" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="2042" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -691,6 +691,9 @@
           <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
             <mxPoint x="6" y="-10.010000000000002" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kgKLS1PGoG1mQcTUH78k-41" value="出资方下载任务管理" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="Tu8uaE7NapHbl94eWMO8-1">
+          <mxGeometry x="19" y="15" width="790" height="1025" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
