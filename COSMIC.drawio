@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-10T01:45:23.560Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="vkIZLWJ3Tq1ewZsPM7Y5" version="14.4.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-03-10T01:48:06.566Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="WeE-sQuzzLSVlp1f5Oe0" version="14.4.3" type="github" pages="6">
   <diagram name="产品结算出资方清空配置" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="2042" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -384,6 +384,140 @@
             <mxPoint x="600" y="269" as="sourcePoint" />
             <mxPoint x="300" y="269" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KdBR-mc_ZT9oS00rOinJ" name="结算出资方配置方管理">
+    <mxGraphModel dx="1769" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="K_L3XzeGhOrNssJDdJkO-0" />
+        <mxCell id="K_L3XzeGhOrNssJDdJkO-1" parent="K_L3XzeGhOrNssJDdJkO-0" />
+        <mxCell id="oLzh2k8Wwyo1xoAUQGjZ-0" value="权益运营管理平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="K_L3XzeGhOrNssJDdJkO-1">
+          <mxGeometry x="240" y="80" width="100" height="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="oLzh2k8Wwyo1xoAUQGjZ-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="oLzh2k8Wwyo1xoAUQGjZ-0">
+          <mxGeometry x="45" y="100" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="oLzh2k8Wwyo1xoAUQGjZ-2" value="MYSQL" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="K_L3XzeGhOrNssJDdJkO-1">
+          <mxGeometry x="560" y="80" width="100" height="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="oLzh2k8Wwyo1xoAUQGjZ-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="oLzh2k8Wwyo1xoAUQGjZ-2">
+          <mxGeometry x="45" y="120" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oLzh2k8Wwyo1xoAUQGjZ-4" value="运营人员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="K_L3XzeGhOrNssJDdJkO-1">
+          <mxGeometry x="-80" y="80" width="100" height="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="oLzh2k8Wwyo1xoAUQGjZ-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="oLzh2k8Wwyo1xoAUQGjZ-4">
+          <mxGeometry x="45" y="100" width="10" height="980" as="geometry" />
+        </mxCell>
+        <mxCell id="oLzh2k8Wwyo1xoAUQGjZ-6" value="输入要下载的结算出资方导入模版编码" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="K_L3XzeGhOrNssJDdJkO-1" source="oLzh2k8Wwyo1xoAUQGjZ-5" target="oLzh2k8Wwyo1xoAUQGjZ-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oLzh2k8Wwyo1xoAUQGjZ-7" value="根据输入的结算出资方导入模版编码&lt;br&gt;查询数据相对应的导入模板文件" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="K_L3XzeGhOrNssJDdJkO-1" source="oLzh2k8Wwyo1xoAUQGjZ-1" target="oLzh2k8Wwyo1xoAUQGjZ-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oLzh2k8Wwyo1xoAUQGjZ-8" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="K_L3XzeGhOrNssJDdJkO-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="269" as="sourcePoint" />
+            <mxPoint x="300" y="269" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oLzh2k8Wwyo1xoAUQGjZ-9" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="K_L3XzeGhOrNssJDdJkO-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="278" y="340" as="sourcePoint" />
+            <mxPoint x="-25" y="340.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oLzh2k8Wwyo1xoAUQGjZ-10" value="输出结算出资方导入模版文件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oLzh2k8Wwyo1xoAUQGjZ-9">
+          <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10.010000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oLzh2k8Wwyo1xoAUQGjZ-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="K_L3XzeGhOrNssJDdJkO-1">
+          <mxGeometry x="285" y="468" width="10" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="oLzh2k8Wwyo1xoAUQGjZ-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="K_L3XzeGhOrNssJDdJkO-1">
+          <mxGeometry x="605" y="488" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="oLzh2k8Wwyo1xoAUQGjZ-13" value="输入要导入的结算出资方文件" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="K_L3XzeGhOrNssJDdJkO-1" target="oLzh2k8Wwyo1xoAUQGjZ-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-25" y="468" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oLzh2k8Wwyo1xoAUQGjZ-14" value="读取数据库的产品信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="K_L3XzeGhOrNssJDdJkO-1" source="oLzh2k8Wwyo1xoAUQGjZ-11" target="oLzh2k8Wwyo1xoAUQGjZ-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="488" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oLzh2k8Wwyo1xoAUQGjZ-15" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="K_L3XzeGhOrNssJDdJkO-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="557" as="sourcePoint" />
+            <mxPoint x="300" y="557" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oLzh2k8Wwyo1xoAUQGjZ-16" value="将结算出资方的数据写入到数据中" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="K_L3XzeGhOrNssJDdJkO-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="296" y="618" as="sourcePoint" />
+            <mxPoint x="606" y="618.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oLzh2k8Wwyo1xoAUQGjZ-17" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="K_L3XzeGhOrNssJDdJkO-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="602" y="678" as="sourcePoint" />
+            <mxPoint x="299" y="678.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oLzh2k8Wwyo1xoAUQGjZ-18" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="K_L3XzeGhOrNssJDdJkO-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="283" y="737" as="sourcePoint" />
+            <mxPoint x="-20" y="737.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oLzh2k8Wwyo1xoAUQGjZ-19" value="输出结算出资方导入结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oLzh2k8Wwyo1xoAUQGjZ-18">
+          <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10.010000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oLzh2k8Wwyo1xoAUQGjZ-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="K_L3XzeGhOrNssJDdJkO-1">
+          <mxGeometry x="285" y="900" width="10" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="oLzh2k8Wwyo1xoAUQGjZ-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="K_L3XzeGhOrNssJDdJkO-1">
+          <mxGeometry x="605" y="920" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oLzh2k8Wwyo1xoAUQGjZ-22" value="输入要下载的文件信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="K_L3XzeGhOrNssJDdJkO-1" target="oLzh2k8Wwyo1xoAUQGjZ-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-25" y="900" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oLzh2k8Wwyo1xoAUQGjZ-23" value="查询数据导入失败的出资方信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="K_L3XzeGhOrNssJDdJkO-1" source="oLzh2k8Wwyo1xoAUQGjZ-20" target="oLzh2k8Wwyo1xoAUQGjZ-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="920" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oLzh2k8Wwyo1xoAUQGjZ-24" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="K_L3XzeGhOrNssJDdJkO-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="989" as="sourcePoint" />
+            <mxPoint x="300" y="989" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oLzh2k8Wwyo1xoAUQGjZ-25" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="K_L3XzeGhOrNssJDdJkO-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="285" y="1061" as="sourcePoint" />
+            <mxPoint x="-18" y="1061.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oLzh2k8Wwyo1xoAUQGjZ-26" value="输出结算出资方错误文件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oLzh2k8Wwyo1xoAUQGjZ-25">
+          <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10.010000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oLzh2k8Wwyo1xoAUQGjZ-27" value="结算出资方配置方管理" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="K_L3XzeGhOrNssJDdJkO-1">
+          <mxGeometry x="-160" y="20" width="840" height="1230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
