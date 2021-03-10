@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-10T01:44:09.165Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="x5BK96zZ_fBySkKLYyQQ" version="14.4.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-03-10T01:45:23.560Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="vkIZLWJ3Tq1ewZsPM7Y5" version="14.4.3" type="github" pages="5">
   <diagram name="产品结算出资方清空配置" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="2042" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -349,6 +349,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Dvsk3EDXBaPgoALpnTQ4-8" value="输出结算凭证差异" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="MV5Z5HHi6lFMfyLa0NfC-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="269" as="sourcePoint" />
+            <mxPoint x="300" y="269" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vmpln6GbSauv849eRyp4" name="结算服务获取产品信息">
+    <mxGraphModel dx="942" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="B-NAO9CWKK2GG6x-53zN-0" />
+        <mxCell id="B-NAO9CWKK2GG6x-53zN-1" parent="B-NAO9CWKK2GG6x-53zN-0" />
+        <mxCell id="rW7Xxov7mbx2PIAjM40H-0" value="结算服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="B-NAO9CWKK2GG6x-53zN-1">
+          <mxGeometry x="240" y="80" width="100" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="rW7Xxov7mbx2PIAjM40H-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="rW7Xxov7mbx2PIAjM40H-0">
+          <mxGeometry x="45" y="100" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="rW7Xxov7mbx2PIAjM40H-2" value="产品服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="B-NAO9CWKK2GG6x-53zN-1">
+          <mxGeometry x="560" y="80" width="100" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="rW7Xxov7mbx2PIAjM40H-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="rW7Xxov7mbx2PIAjM40H-2">
+          <mxGeometry x="45" y="120" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="rW7Xxov7mbx2PIAjM40H-4" value="输入产品信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="B-NAO9CWKK2GG6x-53zN-1" source="rW7Xxov7mbx2PIAjM40H-1" target="rW7Xxov7mbx2PIAjM40H-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rW7Xxov7mbx2PIAjM40H-5" value="输出产品详情" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="B-NAO9CWKK2GG6x-53zN-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="269" as="sourcePoint" />
             <mxPoint x="300" y="269" as="targetPoint" />
