@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-10T08:24:41.511Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="lUwfC8vyTXPkiznVE7fn" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-10T08:26:33.585Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="LHkCE9vJpSi2_1llf9qv" version="14.4.3" type="github">
   <diagram name="省侧退订统一收口历史数据订购管理" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1182" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -180,6 +180,9 @@
           <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
             <mxPoint x="6" y="-10.010000000000002" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ezzfiKeEvcACdHflJw4L-102" value="省侧退订统一收口历史数据订购管理" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="80" y="20" width="960" height="1570" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
