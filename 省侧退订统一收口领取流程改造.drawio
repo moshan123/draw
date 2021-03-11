@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T08:35:16.963Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="zafRwXjLsK6nKaQU-xUw" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-11T09:24:42.540Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="7EYGdR92RDXy95i8dsMg" version="14.4.7" type="github" pages="2">
   <diagram name="历史数据生成领取订单" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1182" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -392,6 +392,194 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MZ5Lg_tPls2-0rmpcVJo-224" value="输出生成手动领取订单轨迹结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MZ5Lg_tPls2-0rmpcVJo-223">
+          <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10.010000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ThlVy8XsIkzWdk_5bU12" name="非能开订单号订单进行自动发放">
+    <mxGraphModel dx="1182" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="nsDiatrnY-Vb4-WJFGXF-0" />
+        <mxCell id="nsDiatrnY-Vb4-WJFGXF-1" parent="nsDiatrnY-Vb4-WJFGXF-0" />
+        <mxCell id="G4ICicPVoM9R3jtb6owf-0" value="非能开订单号订单进行自动发放" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="nsDiatrnY-Vb4-WJFGXF-1">
+          <mxGeometry x="90" y="30" width="850" height="1590" as="geometry" />
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-1" value="权益运营平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="nsDiatrnY-Vb4-WJFGXF-1">
+          <mxGeometry x="463" y="90" width="100" height="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="G4ICicPVoM9R3jtb6owf-1">
+          <mxGeometry x="45" y="100" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-3" value="MYSQL" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="nsDiatrnY-Vb4-WJFGXF-1">
+          <mxGeometry x="783" y="90" width="100" height="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="G4ICicPVoM9R3jtb6owf-3">
+          <mxGeometry x="45" y="120" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-5" value="能力开放平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="nsDiatrnY-Vb4-WJFGXF-1">
+          <mxGeometry x="143" y="90" width="100" height="1470" as="geometry" />
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="G4ICicPVoM9R3jtb6owf-5">
+          <mxGeometry x="45" y="100" width="10" height="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-7" value="输入是否为非能开订单信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="nsDiatrnY-Vb4-WJFGXF-1" source="G4ICicPVoM9R3jtb6owf-6" target="G4ICicPVoM9R3jtb6owf-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="443" y="200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-8" value="读取数据库是否为非能开订单信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="nsDiatrnY-Vb4-WJFGXF-1" source="G4ICicPVoM9R3jtb6owf-2" target="G4ICicPVoM9R3jtb6owf-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="593" y="210" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-9" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="nsDiatrnY-Vb4-WJFGXF-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="823" y="279" as="sourcePoint" />
+            <mxPoint x="523" y="279" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-10" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="nsDiatrnY-Vb4-WJFGXF-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="501" y="350" as="sourcePoint" />
+            <mxPoint x="198" y="350.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-11" value="输出是否为非能开订单信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G4ICicPVoM9R3jtb6owf-10">
+          <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10.010000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="nsDiatrnY-Vb4-WJFGXF-1">
+          <mxGeometry x="508" y="430" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="nsDiatrnY-Vb4-WJFGXF-1">
+          <mxGeometry x="828" y="450" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-14" value="输入是否包含子订发的权益信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="nsDiatrnY-Vb4-WJFGXF-1" target="G4ICicPVoM9R3jtb6owf-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="198" y="430" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-15" value="读取数据库是否包含子订发的权益信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="nsDiatrnY-Vb4-WJFGXF-1" source="G4ICicPVoM9R3jtb6owf-12" target="G4ICicPVoM9R3jtb6owf-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="593" y="450" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-16" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="nsDiatrnY-Vb4-WJFGXF-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="823" y="519" as="sourcePoint" />
+            <mxPoint x="523" y="519" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-17" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="nsDiatrnY-Vb4-WJFGXF-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="501" y="590" as="sourcePoint" />
+            <mxPoint x="198" y="590.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-18" value="输出是否包含子订发的权益信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G4ICicPVoM9R3jtb6owf-17">
+          <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10.010000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="nsDiatrnY-Vb4-WJFGXF-1">
+          <mxGeometry x="508" y="670" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="nsDiatrnY-Vb4-WJFGXF-1">
+          <mxGeometry x="828" y="690" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-21" value="输入自动发放订单信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="nsDiatrnY-Vb4-WJFGXF-1" target="G4ICicPVoM9R3jtb6owf-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="198" y="670" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-22" value="写入数据库自动发放订单信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="nsDiatrnY-Vb4-WJFGXF-1" source="G4ICicPVoM9R3jtb6owf-19" target="G4ICicPVoM9R3jtb6owf-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="593" y="690" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-23" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="nsDiatrnY-Vb4-WJFGXF-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="823" y="758.9999999999998" as="sourcePoint" />
+            <mxPoint x="523" y="758.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-24" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="nsDiatrnY-Vb4-WJFGXF-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="501" y="830" as="sourcePoint" />
+            <mxPoint x="198" y="830.0099999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-25" value="输出生成自动发放订单结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G4ICicPVoM9R3jtb6owf-24">
+          <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10.010000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-26" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="nsDiatrnY-Vb4-WJFGXF-1">
+          <mxGeometry x="508" y="980" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-27" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="nsDiatrnY-Vb4-WJFGXF-1">
+          <mxGeometry x="828" y="1000" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-28" value="输入自动发放监控日志信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="nsDiatrnY-Vb4-WJFGXF-1" target="G4ICicPVoM9R3jtb6owf-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="198" y="980" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-29" value="写入数据库自动发放监控日志信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="nsDiatrnY-Vb4-WJFGXF-1" source="G4ICicPVoM9R3jtb6owf-26" target="G4ICicPVoM9R3jtb6owf-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="593" y="1000" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-30" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="nsDiatrnY-Vb4-WJFGXF-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="823" y="1068.9999999999998" as="sourcePoint" />
+            <mxPoint x="523" y="1068.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-31" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="nsDiatrnY-Vb4-WJFGXF-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="501" y="1140" as="sourcePoint" />
+            <mxPoint x="198" y="1140.0100000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-32" value="输出生成自动发放监控日志结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G4ICicPVoM9R3jtb6owf-31">
+          <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10.010000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-33" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="nsDiatrnY-Vb4-WJFGXF-1">
+          <mxGeometry x="508" y="1230" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-34" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="nsDiatrnY-Vb4-WJFGXF-1">
+          <mxGeometry x="828" y="1250" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-35" value="输入自动发放订单轨迹信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="nsDiatrnY-Vb4-WJFGXF-1" target="G4ICicPVoM9R3jtb6owf-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="198" y="1230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-36" value="写入数据库自动发放订单轨迹信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="nsDiatrnY-Vb4-WJFGXF-1" source="G4ICicPVoM9R3jtb6owf-33" target="G4ICicPVoM9R3jtb6owf-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="593" y="1250" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-37" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="nsDiatrnY-Vb4-WJFGXF-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="823" y="1319" as="sourcePoint" />
+            <mxPoint x="523" y="1319" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-38" value="输出历史数据清洗账号信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="nsDiatrnY-Vb4-WJFGXF-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="501" y="1390" as="sourcePoint" />
+            <mxPoint x="198" y="1390.0100000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4ICicPVoM9R3jtb6owf-39" value="输出生成自动发放订单轨迹结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G4ICicPVoM9R3jtb6owf-38">
           <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
             <mxPoint x="6" y="-10.010000000000002" as="offset" />
           </mxGeometry>
