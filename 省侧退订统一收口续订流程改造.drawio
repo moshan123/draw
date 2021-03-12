@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T07:23:34.190Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="oGEaqWXfEZB3vXHv6AsO" version="14.4.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-12T07:27:27.168Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="6zzORB_JVxTj3vyvIdCl" version="14.4.7" type="github" pages="2">
   <diagram name="异业+通信组合权益订单文件续订" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -502,7 +502,7 @@
         <mxCell id="FNUyyBYagSxeg-gfCZ4A-0" />
         <mxCell id="FNUyyBYagSxeg-gfCZ4A-1" parent="FNUyyBYagSxeg-gfCZ4A-0" />
         <mxCell id="dfFkL5OicyMCaXFEWrch-0" value="纯异业权益订单文件续订" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="FNUyyBYagSxeg-gfCZ4A-1">
-          <mxGeometry x="53" y="20" width="960" height="4580" as="geometry" />
+          <mxGeometry x="40" y="10" width="960" height="4580" as="geometry" />
         </mxCell>
         <mxCell id="dfFkL5OicyMCaXFEWrch-1" value="权益平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="FNUyyBYagSxeg-gfCZ4A-1">
           <mxGeometry x="453" y="80" width="100" height="4480" as="geometry" />
