@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T09:37:24.815Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="O5g-eed8kAHcQc-NaRUK" version="14.4.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-12T09:38:42.442Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="vJfZANdMenp_fU124yUY" version="14.4.7" type="github" pages="3">
   <diagram name="异业+通信组合权益订单文件续订" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1182" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1013,7 +1013,7 @@
         <mxCell id="Uq1jS_5TW9YZbI3PHVRF-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="Uq1jS_5TW9YZbI3PHVRF-3">
           <mxGeometry x="45" y="120" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Uq1jS_5TW9YZbI3PHVRF-6" value="权益平台定时任务模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="BXy3dtCrwOxm2gPJGAb1-1">
+        <mxCell id="Uq1jS_5TW9YZbI3PHVRF-6" value="权益运用人员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="BXy3dtCrwOxm2gPJGAb1-1">
           <mxGeometry x="48" y="80" width="100" height="2000" as="geometry" />
         </mxCell>
         <mxCell id="Uq1jS_5TW9YZbI3PHVRF-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="Uq1jS_5TW9YZbI3PHVRF-6">
