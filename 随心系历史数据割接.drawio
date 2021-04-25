@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-25T08:26:07.917Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="C5t7IR4dECILFfuJ_HHp" version="14.6.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-04-25T09:00:13.702Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="VlTEfajp4fQi-X_FNOOW" version="14.6.6" type="github" pages="5">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="942" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1260,6 +1260,929 @@
         </mxCell>
         <mxCell id="AAW-z-oSAt3BOR4iiPH_-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2v1avJ1bNnqq2K_umOGx-1" source="AAW-z-oSAt3BOR4iiPH_-3" target="AAW-z-oSAt3BOR4iiPH_-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="XEbNCchphD41_FkgiePN" name="区块链">
+    <mxGraphModel dx="942" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="g1l2B---sVJ6awSlSMZo-0" />
+        <mxCell id="g1l2B---sVJ6awSlSMZo-1" parent="g1l2B---sVJ6awSlSMZo-0" />
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-0" value="区块链需求优化" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="16" y="50" width="790" height="6710" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-1" value="区块链服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="362" y="105" width="100" height="6625" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="8V9tXYykLS3kK8Z99NVo-1">
+          <mxGeometry x="45" y="100" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-3" value="MYSQL" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="682" y="105" width="100" height="6625" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="8V9tXYykLS3kK8Z99NVo-3">
+          <mxGeometry x="45" y="120" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-5" value="定时任务服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="42" y="105" width="100" height="6625" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="8V9tXYykLS3kK8Z99NVo-5">
+          <mxGeometry x="45" y="100" width="10" height="6480" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-7" value="输入广东省份编码" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" source="8V9tXYykLS3kK8Z99NVo-6" target="8V9tXYykLS3kK8Z99NVo-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="342" y="215" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-8" value="读取数据库广东省份的账号信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" source="8V9tXYykLS3kK8Z99NVo-2" target="8V9tXYykLS3kK8Z99NVo-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="492" y="225" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-9" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="722" y="294" as="sourcePoint" />
+            <mxPoint x="422" y="294" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-10" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="365" as="sourcePoint" />
+            <mxPoint x="97" y="365.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-11" value="输出广东省份的账号信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8V9tXYykLS3kK8Z99NVo-10">
+          <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10.010000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="407" y="445" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="727" y="465" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-14" value="输入广东省份的账号" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" target="8V9tXYykLS3kK8Z99NVo-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="97" y="445" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-15" value="读取广东省份的上链失败数和上链成功数" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" source="8V9tXYykLS3kK8Z99NVo-12" target="8V9tXYykLS3kK8Z99NVo-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="492" y="465" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-16" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="722" y="534" as="sourcePoint" />
+            <mxPoint x="422" y="534" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-17" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="605" as="sourcePoint" />
+            <mxPoint x="97" y="605.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-18" value="输出广东省份的上链数据汇总" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8V9tXYykLS3kK8Z99NVo-17">
+          <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10.010000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="407" y="685" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="727" y="705" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-21" value="输入广东省份的名称" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" target="8V9tXYykLS3kK8Z99NVo-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="97" y="685" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-22" value="读取数据库广东省份日上链明细" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" source="8V9tXYykLS3kK8Z99NVo-19" target="8V9tXYykLS3kK8Z99NVo-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="492" y="705" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-23" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="722" y="774" as="sourcePoint" />
+            <mxPoint x="422" y="774" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-24" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="845" as="sourcePoint" />
+            <mxPoint x="97" y="845.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-25" value="输出广东省份日上链明细" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8V9tXYykLS3kK8Z99NVo-24">
+          <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10.010000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-26" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="407" y="920" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-27" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="727" y="940" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-28" value="输入广东省的详细报表数据" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" target="8V9tXYykLS3kK8Z99NVo-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="97" y="920" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-29" value="输入广东省的统计报表数据" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" source="8V9tXYykLS3kK8Z99NVo-26" target="8V9tXYykLS3kK8Z99NVo-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="492" y="940" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-30" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="722" y="1009" as="sourcePoint" />
+            <mxPoint x="422" y="1009" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-31" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="1080" as="sourcePoint" />
+            <mxPoint x="97" y="1080.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-32" value="输出广东省的统计报表数据和广东省的详细报表数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8V9tXYykLS3kK8Z99NVo-31">
+          <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10.010000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-33" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="408" y="1160" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-34" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="728" y="1180" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-35" value="输入辽宁省份编码" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" target="8V9tXYykLS3kK8Z99NVo-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="98" y="1160" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-36" value="读取数据库辽宁省份的账号信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" source="8V9tXYykLS3kK8Z99NVo-33" target="8V9tXYykLS3kK8Z99NVo-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="493" y="1180" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-37" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="723" y="1249" as="sourcePoint" />
+            <mxPoint x="423" y="1249" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-38" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="401" y="1320" as="sourcePoint" />
+            <mxPoint x="98" y="1320.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-39" value="输出辽宁省份的账号信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8V9tXYykLS3kK8Z99NVo-38">
+          <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10.010000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-40" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="408" y="1387" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-41" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="728" y="1407" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-42" value="输入辽宁省份的账号" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" target="8V9tXYykLS3kK8Z99NVo-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="98" y="1387" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-43" value="读取辽宁省份的上链失败数和上链成功数" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" source="8V9tXYykLS3kK8Z99NVo-40" target="8V9tXYykLS3kK8Z99NVo-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="493" y="1407" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-44" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="723" y="1476" as="sourcePoint" />
+            <mxPoint x="423" y="1476" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-45" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="401" y="1547" as="sourcePoint" />
+            <mxPoint x="98" y="1547.0100000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-46" value="输出辽宁省份的上链数据汇总" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8V9tXYykLS3kK8Z99NVo-45">
+          <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10.010000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-47" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="408" y="1650" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-48" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="728" y="1670" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-49" value="输入辽宁省份的名称" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" target="8V9tXYykLS3kK8Z99NVo-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="98" y="1650" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-50" value="读取数据库辽宁省份日上链明细" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" source="8V9tXYykLS3kK8Z99NVo-47" target="8V9tXYykLS3kK8Z99NVo-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="493" y="1670" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-51" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="723" y="1739" as="sourcePoint" />
+            <mxPoint x="423" y="1739" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-52" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="401" y="1810" as="sourcePoint" />
+            <mxPoint x="98" y="1810.0100000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-53" value="输出辽宁省份日上链明细" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8V9tXYykLS3kK8Z99NVo-52">
+          <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10.010000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-54" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="408" y="1900" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-55" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="728" y="1920" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-56" value="输入辽宁省的详细报表数据" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" target="8V9tXYykLS3kK8Z99NVo-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="98" y="1900" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-57" value="输入辽宁省的统计报表数据" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" source="8V9tXYykLS3kK8Z99NVo-54" target="8V9tXYykLS3kK8Z99NVo-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="493" y="1920" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-58" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="723" y="1989" as="sourcePoint" />
+            <mxPoint x="423" y="1989" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-59" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="401" y="2060" as="sourcePoint" />
+            <mxPoint x="98" y="2060.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-60" value="输出辽宁省的统计报表数据和辽宁省的详细报表数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8V9tXYykLS3kK8Z99NVo-59">
+          <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10.010000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-61" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="408" y="2180" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-62" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="728" y="2200" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-63" value="输入山西省份编码" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" target="8V9tXYykLS3kK8Z99NVo-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="98" y="2180" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-64" value="读取数据库山西省份的账号信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" source="8V9tXYykLS3kK8Z99NVo-61" target="8V9tXYykLS3kK8Z99NVo-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="493" y="2200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-65" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="723" y="2269" as="sourcePoint" />
+            <mxPoint x="423" y="2269" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-66" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="401" y="2340" as="sourcePoint" />
+            <mxPoint x="98" y="2340.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-67" value="输出山西省份的账号信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8V9tXYykLS3kK8Z99NVo-66">
+          <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10.010000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-68" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="409" y="2450" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-69" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="729" y="2470" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-70" value="输入山西省份的账号" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" target="8V9tXYykLS3kK8Z99NVo-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="99" y="2450" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-71" value="读取山西省份的上链失败数和上链成功数" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" source="8V9tXYykLS3kK8Z99NVo-68" target="8V9tXYykLS3kK8Z99NVo-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="494" y="2470" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-72" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="724" y="2539" as="sourcePoint" />
+            <mxPoint x="424" y="2539" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-73" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="402" y="2610" as="sourcePoint" />
+            <mxPoint x="99" y="2610.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-74" value="输出山西省份的上链数据汇总" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8V9tXYykLS3kK8Z99NVo-73">
+          <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10.010000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-75" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="409" y="2710" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-76" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="729" y="2730" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-77" value="输入山西省份的名称" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" target="8V9tXYykLS3kK8Z99NVo-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="99" y="2710" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-78" value="读取数据库山西省份日上链明细" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" source="8V9tXYykLS3kK8Z99NVo-75" target="8V9tXYykLS3kK8Z99NVo-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="494" y="2730" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-79" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="724" y="2799" as="sourcePoint" />
+            <mxPoint x="424" y="2799" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-80" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="402" y="2870" as="sourcePoint" />
+            <mxPoint x="99" y="2870.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-81" value="输出山西省份日上链明细" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8V9tXYykLS3kK8Z99NVo-80">
+          <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10.010000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-82" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="409" y="3000" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-83" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="729" y="3020" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-84" value="输入山西省的详细报表数据" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" target="8V9tXYykLS3kK8Z99NVo-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="99" y="3000" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-85" value="输入山西省的统计报表数据" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" source="8V9tXYykLS3kK8Z99NVo-82" target="8V9tXYykLS3kK8Z99NVo-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="494" y="3020" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-86" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="724" y="3089" as="sourcePoint" />
+            <mxPoint x="424" y="3089" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-87" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="402" y="3160" as="sourcePoint" />
+            <mxPoint x="99" y="3160.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-88" value="输出山西省的统计报表数据和山西省的详细报表数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8V9tXYykLS3kK8Z99NVo-87">
+          <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10.010000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-89" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="409" y="3280" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-90" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="729" y="3300" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-91" value="输入陕西省份编码" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" target="8V9tXYykLS3kK8Z99NVo-89">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="99" y="3280" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-92" value="读取数据库陕西省份的账号信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" source="8V9tXYykLS3kK8Z99NVo-89" target="8V9tXYykLS3kK8Z99NVo-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="494" y="3300" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-93" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="724" y="3369" as="sourcePoint" />
+            <mxPoint x="424" y="3369" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-94" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="402" y="3440" as="sourcePoint" />
+            <mxPoint x="99" y="3440.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-95" value="输出陕西省份的账号信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8V9tXYykLS3kK8Z99NVo-94">
+          <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10.010000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-96" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="409" y="3580" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-97" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="729" y="3600" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-98" value="输入陕西省份的账号" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" target="8V9tXYykLS3kK8Z99NVo-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="99" y="3580" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-99" value="读取陕西省份的上链失败数和上链成功数" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" source="8V9tXYykLS3kK8Z99NVo-96" target="8V9tXYykLS3kK8Z99NVo-97">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="494" y="3600" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-100" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="724" y="3669" as="sourcePoint" />
+            <mxPoint x="424" y="3669" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-101" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="402" y="3740" as="sourcePoint" />
+            <mxPoint x="99" y="3740.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-102" value="输出陕西省份的上链数据汇总" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8V9tXYykLS3kK8Z99NVo-101">
+          <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10.010000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" source="8V9tXYykLS3kK8Z99NVo-3" target="8V9tXYykLS3kK8Z99NVo-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-203" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="407" y="3830" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-204" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="727" y="3850" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-205" value="输入陕西省份的名称" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" target="8V9tXYykLS3kK8Z99NVo-203">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="97" y="3830" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-206" value="读取数据库陕西省份日上链明细" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" source="8V9tXYykLS3kK8Z99NVo-203" target="8V9tXYykLS3kK8Z99NVo-204">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="492" y="3850" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-207" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="722" y="3919" as="sourcePoint" />
+            <mxPoint x="422" y="3919" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-208" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="3990" as="sourcePoint" />
+            <mxPoint x="97" y="3990.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-209" value="输出陕西省份日上链明细" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8V9tXYykLS3kK8Z99NVo-208">
+          <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10.010000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-210" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="407" y="4070" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-211" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="727" y="4090" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-212" value="输入陕西省的详细报表数据" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" target="8V9tXYykLS3kK8Z99NVo-210">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="97" y="4070" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-213" value="输入陕西省的统计报表数据" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" source="8V9tXYykLS3kK8Z99NVo-210" target="8V9tXYykLS3kK8Z99NVo-211">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="492" y="4090" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-214" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="722" y="4159" as="sourcePoint" />
+            <mxPoint x="422" y="4159" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-215" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="4230" as="sourcePoint" />
+            <mxPoint x="97" y="4230.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-216" value="输出陕西省的统计报表数据和陕西省的详细报表数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8V9tXYykLS3kK8Z99NVo-215">
+          <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10.010000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-217" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="407" y="4310" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-218" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="727" y="4330" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-219" value="输入浙江省份编码" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" target="8V9tXYykLS3kK8Z99NVo-217">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="97" y="4310" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-220" value="读取数据库浙江省份的账号信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" source="8V9tXYykLS3kK8Z99NVo-217" target="8V9tXYykLS3kK8Z99NVo-218">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="492" y="4330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-221" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="722" y="4399" as="sourcePoint" />
+            <mxPoint x="422" y="4399" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-222" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="4470" as="sourcePoint" />
+            <mxPoint x="97" y="4470.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-223" value="输出浙江省份的账号信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8V9tXYykLS3kK8Z99NVo-222">
+          <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10.010000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-224" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="407" y="4545" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-225" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="727" y="4565" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-226" value="输入浙江省份的账号" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" target="8V9tXYykLS3kK8Z99NVo-224">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="97" y="4545" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-227" value="读取浙江省份的上链失败数和上链成功数" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" source="8V9tXYykLS3kK8Z99NVo-224" target="8V9tXYykLS3kK8Z99NVo-225">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="492" y="4565" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-228" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="722" y="4634" as="sourcePoint" />
+            <mxPoint x="422" y="4634" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-229" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="4705" as="sourcePoint" />
+            <mxPoint x="97" y="4705.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-230" value="输出浙江省份的上链数据汇总" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8V9tXYykLS3kK8Z99NVo-229">
+          <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10.010000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-231" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="408" y="4785" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-232" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="728" y="4805" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-233" value="输入浙江省份的名称" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" target="8V9tXYykLS3kK8Z99NVo-231">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="98" y="4785" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-234" value="读取数据库浙江省份日上链明细" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" source="8V9tXYykLS3kK8Z99NVo-231" target="8V9tXYykLS3kK8Z99NVo-232">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="493" y="4805" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-235" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="723" y="4874" as="sourcePoint" />
+            <mxPoint x="423" y="4874" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-236" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="401" y="4945" as="sourcePoint" />
+            <mxPoint x="98" y="4945.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-237" value="输出浙江省份日上链明细" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8V9tXYykLS3kK8Z99NVo-236">
+          <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10.010000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-238" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="408" y="5012" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-239" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="728" y="5032" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-240" value="输入浙江省的详细报表数据" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" target="8V9tXYykLS3kK8Z99NVo-238">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="98" y="5012" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-241" value="输入浙江省的统计报表数据" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" source="8V9tXYykLS3kK8Z99NVo-238" target="8V9tXYykLS3kK8Z99NVo-239">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="493" y="5032" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-242" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="723" y="5101" as="sourcePoint" />
+            <mxPoint x="423" y="5101" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-243" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="401" y="5172" as="sourcePoint" />
+            <mxPoint x="98" y="5172.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-244" value="输出浙江省的统计报表数据和浙江省的详细报表数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8V9tXYykLS3kK8Z99NVo-243">
+          <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10.010000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-245" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="408" y="5275" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-246" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="728" y="5295" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-247" value="输入江苏省份编码" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" target="8V9tXYykLS3kK8Z99NVo-245">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="98" y="5275" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-248" value="读取数据库江苏省份的账号信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" source="8V9tXYykLS3kK8Z99NVo-245" target="8V9tXYykLS3kK8Z99NVo-246">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="493" y="5295" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-249" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="723" y="5364" as="sourcePoint" />
+            <mxPoint x="423" y="5364" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-250" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="401" y="5435" as="sourcePoint" />
+            <mxPoint x="98" y="5435.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-251" value="输出江苏省份的账号信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8V9tXYykLS3kK8Z99NVo-250">
+          <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10.010000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-252" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="408" y="5525" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-253" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="728" y="5545" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-254" value="输入江苏省份的账号" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" target="8V9tXYykLS3kK8Z99NVo-252">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="98" y="5525" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-255" value="读取江苏省份的上链失败数和上链成功数" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" source="8V9tXYykLS3kK8Z99NVo-252" target="8V9tXYykLS3kK8Z99NVo-253">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="493" y="5545" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-256" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="723" y="5614" as="sourcePoint" />
+            <mxPoint x="423" y="5614" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-257" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="401" y="5685" as="sourcePoint" />
+            <mxPoint x="98" y="5685.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-258" value="输出江苏省份的上链数据汇总" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8V9tXYykLS3kK8Z99NVo-257">
+          <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10.010000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-259" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="408" y="5805" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-260" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="728" y="5825" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-261" value="输入江苏省份的名称" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" target="8V9tXYykLS3kK8Z99NVo-259">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="98" y="5805" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-262" value="读取数据库江苏省份日上链明细" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" source="8V9tXYykLS3kK8Z99NVo-259" target="8V9tXYykLS3kK8Z99NVo-260">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="493" y="5825" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-263" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="723" y="5894" as="sourcePoint" />
+            <mxPoint x="423" y="5894" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-264" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="401" y="5965" as="sourcePoint" />
+            <mxPoint x="98" y="5965.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-265" value="输出江苏省份日上链明细" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8V9tXYykLS3kK8Z99NVo-264">
+          <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10.010000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-266" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="409" y="6075" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-267" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="729" y="6095" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-268" value="输入江苏省的详细报表数据" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" target="8V9tXYykLS3kK8Z99NVo-266">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="99" y="6075" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-269" value="输入江苏省的统计报表数据" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" source="8V9tXYykLS3kK8Z99NVo-266" target="8V9tXYykLS3kK8Z99NVo-267">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="494" y="6095" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-270" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="724" y="6164" as="sourcePoint" />
+            <mxPoint x="424" y="6164" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-271" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="402" y="6235" as="sourcePoint" />
+            <mxPoint x="99" y="6235.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-272" value="输出江苏省的统计报表数据和江苏省的详细报表数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8V9tXYykLS3kK8Z99NVo-271">
+          <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10.010000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-273" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="409" y="6335" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-274" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="729" y="6355" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-275" value="输入区块链报表邮件" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" target="8V9tXYykLS3kK8Z99NVo-273">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="99" y="6335" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-276" value="输出区块链的压缩包" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" source="8V9tXYykLS3kK8Z99NVo-273" target="8V9tXYykLS3kK8Z99NVo-274">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="494" y="6355" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-277" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="724" y="6424" as="sourcePoint" />
+            <mxPoint x="424" y="6424" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-278" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="402" y="6495" as="sourcePoint" />
+            <mxPoint x="99" y="6495.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-279" value="输出区块链报表的发送结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8V9tXYykLS3kK8Z99NVo-278">
+          <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10.010000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-287" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="409" y="6905" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-288" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="729" y="6925" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-289" value="输入陕西省份编码" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" target="8V9tXYykLS3kK8Z99NVo-287">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="99" y="6905" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-290" value="读取数据库陕西省份的账号信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" source="8V9tXYykLS3kK8Z99NVo-287" target="8V9tXYykLS3kK8Z99NVo-288">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="494" y="6925" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-291" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="724" y="6994" as="sourcePoint" />
+            <mxPoint x="424" y="6994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-292" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="402" y="7065" as="sourcePoint" />
+            <mxPoint x="99" y="7065.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-293" value="输出陕西省份的账号信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8V9tXYykLS3kK8Z99NVo-292">
+          <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10.010000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-294" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="409" y="7205" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-295" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry x="729" y="7225" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-296" value="输入陕西省份的账号" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" target="8V9tXYykLS3kK8Z99NVo-294">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="99" y="7205" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-297" value="读取陕西省份的上链失败数和上链成功数" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1" source="8V9tXYykLS3kK8Z99NVo-294" target="8V9tXYykLS3kK8Z99NVo-295">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="494" y="7225" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-298" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="724" y="7294" as="sourcePoint" />
+            <mxPoint x="424" y="7294" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-299" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="402" y="7365" as="sourcePoint" />
+            <mxPoint x="99" y="7365.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-300" value="输出陕西省份的上链数据汇总" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8V9tXYykLS3kK8Z99NVo-299">
+          <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10.010000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8V9tXYykLS3kK8Z99NVo-301" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="g1l2B---sVJ6awSlSMZo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="731.5" y="7032.5" as="sourcePoint" />
+            <mxPoint x="731.5" y="7052.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
