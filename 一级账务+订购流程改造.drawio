@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-31T09:37:43.327Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="15LzkUkIL6CG5aUYd3zu" version="14.7.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-31T09:46:41.561Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="uQBzJaj8Z98ewHE4VJgY" version="14.7.3" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="981" dy="1695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2635" dy="1695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -62,8 +62,8 @@
         <mxCell id="k2YI5_YI2uwewbOjL1un-14" value="生成主订单的时候从产品中获取是否是灵活计费产品，并写入主订单中" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k2YI5_YI2uwewbOjL1un-17" value="数据库主订单t_order添加字段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="-60" width="230" height="20" as="geometry" />
+        <mxCell id="k2YI5_YI2uwewbOjL1un-17" value="数据库主订单t_order添加字段&lt;br style=&quot;font-size: 13px&quot;&gt;是否为灵活计费的订单is_flexible_charge&lt;br style=&quot;font-size: 13px&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;省端扣费流水号&lt;/span&gt;province_order_id&lt;br style=&quot;font-size: 13px&quot;&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 13px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E8%AE%A2%E5%8D%95%E6%89%A3%E8%B4%B9%E7%BB%93%E6%9E%9C%E5%8F%8D%E9%A6%88%EF%BC%8C%E6%8E%A5%E5%8F%A3%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22340%22%20y%3D%22300%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="-50" width="330" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -73,41 +73,64 @@
       <root>
         <mxCell id="dYdY6W_APtDa_cqt6I0e-0" />
         <mxCell id="dYdY6W_APtDa_cqt6I0e-1" parent="dYdY6W_APtDa_cqt6I0e-0" />
-        <mxCell id="dYdY6W_APtDa_cqt6I0e-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dYdY6W_APtDa_cqt6I0e-1" source="dYdY6W_APtDa_cqt6I0e-2" target="dYdY6W_APtDa_cqt6I0e-4">
+        <mxCell id="JR55I7riFO1rs68Sx2Q--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dYdY6W_APtDa_cqt6I0e-1" source="dYdY6W_APtDa_cqt6I0e-2" target="JR55I7riFO1rs68Sx2Q--2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dYdY6W_APtDa_cqt6I0e-2" value="一级账务反馈" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="dYdY6W_APtDa_cqt6I0e-1">
-          <mxGeometry x="370" y="180" width="80" height="30" as="geometry" />
+          <mxGeometry x="360" y="140" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dYdY6W_APtDa_cqt6I0e-3" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="dYdY6W_APtDa_cqt6I0e-1">
-          <mxGeometry x="395" y="730" width="30" height="30" as="geometry" />
+          <mxGeometry x="399" y="890" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dYdY6W_APtDa_cqt6I0e-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dYdY6W_APtDa_cqt6I0e-1" source="dYdY6W_APtDa_cqt6I0e-4" target="dYdY6W_APtDa_cqt6I0e-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="dYdY6W_APtDa_cqt6I0e-7" value="&lt;p class=&quot;MsoNormal&quot;&gt;是&lt;/p&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dYdY6W_APtDa_cqt6I0e-1" target="dYdY6W_APtDa_cqt6I0e-6">
+          <mxGeometry x="0.032" relative="1" as="geometry">
+            <mxPoint x="400" y="440" as="sourcePoint" />
+            <mxPoint x="320" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="500" />
+              <mxPoint x="320" y="500" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="dYdY6W_APtDa_cqt6I0e-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dYdY6W_APtDa_cqt6I0e-1" source="dYdY6W_APtDa_cqt6I0e-4" target="dYdY6W_APtDa_cqt6I0e-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dYdY6W_APtDa_cqt6I0e-4" value="订单扣费结果反馈，接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dYdY6W_APtDa_cqt6I0e-1">
-          <mxGeometry x="350" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="dYdY6W_APtDa_cqt6I0e-9" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dYdY6W_APtDa_cqt6I0e-1" source="JR55I7riFO1rs68Sx2Q--1" target="dYdY6W_APtDa_cqt6I0e-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="470" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="400" y="500" />
+              <mxPoint x="500" y="500" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="dYdY6W_APtDa_cqt6I0e-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dYdY6W_APtDa_cqt6I0e-1" source="dYdY6W_APtDa_cqt6I0e-6" target="dYdY6W_APtDa_cqt6I0e-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dYdY6W_APtDa_cqt6I0e-6" value="订单扣费结果反馈，接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dYdY6W_APtDa_cqt6I0e-1">
-          <mxGeometry x="260" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="dYdY6W_APtDa_cqt6I0e-6" value="更新为扣费失败" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dYdY6W_APtDa_cqt6I0e-1">
+          <mxGeometry x="264" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dYdY6W_APtDa_cqt6I0e-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dYdY6W_APtDa_cqt6I0e-1" source="dYdY6W_APtDa_cqt6I0e-8" target="dYdY6W_APtDa_cqt6I0e-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dYdY6W_APtDa_cqt6I0e-8" value="订单扣费结果反馈，接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dYdY6W_APtDa_cqt6I0e-1">
-          <mxGeometry x="440" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="dYdY6W_APtDa_cqt6I0e-8" value="更新为扣费成功，记录&lt;span style=&quot;font-size: 10pt&quot;&gt;&lt;b&gt;省端扣费流水号&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dYdY6W_APtDa_cqt6I0e-1">
+          <mxGeometry x="444" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dYdY6W_APtDa_cqt6I0e-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dYdY6W_APtDa_cqt6I0e-1" source="dYdY6W_APtDa_cqt6I0e-10" target="dYdY6W_APtDa_cqt6I0e-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dYdY6W_APtDa_cqt6I0e-10" value="订单扣费结果反馈，接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dYdY6W_APtDa_cqt6I0e-1">
-          <mxGeometry x="350" y="610" width="120" height="60" as="geometry" />
+        <mxCell id="dYdY6W_APtDa_cqt6I0e-10" value="调用EXTF005接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dYdY6W_APtDa_cqt6I0e-1">
+          <mxGeometry x="354" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JR55I7riFO1rs68Sx2Q--1" value="&lt;span style=&quot;font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;省端扣费流水号是否为999999&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dYdY6W_APtDa_cqt6I0e-1">
+          <mxGeometry x="340" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JR55I7riFO1rs68Sx2Q--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dYdY6W_APtDa_cqt6I0e-1" source="JR55I7riFO1rs68Sx2Q--2" target="JR55I7riFO1rs68Sx2Q--1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JR55I7riFO1rs68Sx2Q--2" value="订单扣费结果反馈，接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dYdY6W_APtDa_cqt6I0e-1">
+          <mxGeometry x="340" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2Dww7F85DNgVOkkCxiEN-0" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.three_corner_round_rect;dx=6;fontSize=13;" vertex="1" parent="dYdY6W_APtDa_cqt6I0e-1">
+          <mxGeometry x="600" y="500" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
