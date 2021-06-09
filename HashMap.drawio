@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-07T02:59:21.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="Z7cDZlu3JLxeXGt_l-AS" version="14.7.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-09T02:17:36.382Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="lCnHf1ewguBUNVdlo9k4" version="14.7.6" type="github" pages="2">
   <diagram id="Fzvb7RSM5rTjxrubtepL" name="1.7ConcurrentHashMap">
-    <mxGraphModel dx="1619" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1769" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,11 +70,17 @@
         <mxCell id="tu23rs6nQoFqhlMrEVJC-7" value="&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 13.5pt&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;HashEntry&lt;/span&gt;[] &lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="170" width="110" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SciKpnvPr74kQoyALNPm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="SciKpnvPr74kQoyALNPm-1" target="NuMqMbZF1dJRSCSBSGXp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SciKpnvPr74kQoyALNPm-1" value="构造方法生成S0，，后续put的值会根据segment[0]的长度、阈值、负载因子创建新的segment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="37.5" y="30" width="175" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="kOR8MeG75AAu46VqsiLO" name="1.7HashMap">
-    <mxGraphModel dx="2500" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1935" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="NhHVNr-ap2CFED7T8A9z-0" />
         <mxCell id="NhHVNr-ap2CFED7T8A9z-1" parent="NhHVNr-ap2CFED7T8A9z-0" />
@@ -95,6 +101,9 @@
         </mxCell>
         <mxCell id="jK-MI6j5NtE0plNj9lit-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NhHVNr-ap2CFED7T8A9z-1">
           <mxGeometry x="350" y="130" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSWIUME-SpePDBl0eqG3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NhHVNr-ap2CFED7T8A9z-1" source="jK-MI6j5NtE0plNj9lit-15" target="uSWIUME-SpePDBl0eqG3-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jK-MI6j5NtE0plNj9lit-15" value="&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 13.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 13.5pt&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;Entry&lt;/span&gt;[] &lt;span style=&quot;color: #871094&quot;&gt;table&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NhHVNr-ap2CFED7T8A9z-1">
           <mxGeometry x="-30" y="150" width="40" height="20" as="geometry" />
@@ -155,6 +164,9 @@
         </mxCell>
         <mxCell id="jK-MI6j5NtE0plNj9lit-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NhHVNr-ap2CFED7T8A9z-1">
           <mxGeometry x="1240" y="130" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSWIUME-SpePDBl0eqG3-3" value="&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;quot;jetbrains mono&amp;quot; , monospace ; font-size: 13.5pt&quot;&gt;&lt;span style=&quot;color: #0033b3&quot;&gt;final &lt;/span&gt;&lt;span style=&quot;color: #007e8a&quot;&gt;K &lt;/span&gt;&lt;span style=&quot;color: #871094&quot;&gt;key&lt;/span&gt;;&lt;br&gt;&lt;span style=&quot;color: #007e8a&quot;&gt;V &lt;/span&gt;&lt;span style=&quot;color: #871094&quot;&gt;value&lt;/span&gt;;&lt;br&gt;&lt;span style=&quot;color: #000000&quot;&gt;Entry&lt;/span&gt;&amp;lt;&lt;span style=&quot;color: #007e8a&quot;&gt;K&lt;/span&gt;,&lt;span style=&quot;color: #007e8a&quot;&gt;V&lt;/span&gt;&amp;gt; &lt;span style=&quot;color: #871094&quot;&gt;next&lt;/span&gt;;&lt;br&gt;&lt;span style=&quot;color: #0033b3&quot;&gt;int &lt;/span&gt;&lt;span style=&quot;color: #871094&quot;&gt;hash&lt;/span&gt;;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="NhHVNr-ap2CFED7T8A9z-1">
+          <mxGeometry x="-95" y="245" width="170" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
