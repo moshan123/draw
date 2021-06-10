@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T13:44:54.240Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="JYplE0idpvL9XIcvvTTH" version="14.7.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-10T13:46:11.356Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="lC8X3hM5RhquPg8ak_Jp" version="14.7.6" type="github" pages="2">
   <diagram id="Fzvb7RSM5rTjxrubtepL" name="1.7ConcurrentHashMap">
     <mxGraphModel dx="2012" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -154,8 +154,8 @@
         <mxCell id="SpWOobQAloT7dxqmhvdy-35" value="先记录下链表最后面几个移到相同位置的几个节点，然后把他们的开头移过去，再把开头往上再移过去" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-270" y="600" width="210" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="SpWOobQAloT7dxqmhvdy-37" value="这三个几点扩容到相同位置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="55" y="660" width="160" height="20" as="geometry" />
+        <mxCell id="SpWOobQAloT7dxqmhvdy-37" value="这三个节点扩容到相同位置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="37.5" y="690" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SpWOobQAloT7dxqmhvdy-38" value="6:6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-30" y="730" width="45" height="30" as="geometry" />
