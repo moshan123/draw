@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T02:17:36.382Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="lCnHf1ewguBUNVdlo9k4" version="14.7.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-10T13:44:54.240Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="JYplE0idpvL9XIcvvTTH" version="14.7.6" type="github" pages="2">
   <diagram id="Fzvb7RSM5rTjxrubtepL" name="1.7ConcurrentHashMap">
-    <mxGraphModel dx="1769" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2012" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SpWOobQAloT7dxqmhvdy-43" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-62.5" y="432.5" width="97.5" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="SpWOobQAloT7dxqmhvdy-36" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;arcSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="600" width="105" height="170" as="geometry" />
+        </mxCell>
         <mxCell id="NuMqMbZF1dJRSCSBSGXp-2" value="&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 13.5pt&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;s0&lt;/span&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="130" width="90" height="60" as="geometry" />
         </mxCell>
@@ -36,6 +42,9 @@
         </mxCell>
         <mxCell id="NuMqMbZF1dJRSCSBSGXp-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="305" y="190" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SpWOobQAloT7dxqmhvdy-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="NuMqMbZF1dJRSCSBSGXp-12" target="NuMqMbZF1dJRSCSBSGXp-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NuMqMbZF1dJRSCSBSGXp-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="220" width="20" height="30" as="geometry" />
@@ -75,6 +84,86 @@
         </mxCell>
         <mxCell id="SciKpnvPr74kQoyALNPm-1" value="构造方法生成S0，，后续put的值会根据segment[0]的长度、阈值、负载因子创建新的segment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="37.5" y="30" width="175" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SciKpnvPr74kQoyALNPm-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="SciKpnvPr74kQoyALNPm-4" target="NuMqMbZF1dJRSCSBSGXp-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SciKpnvPr74kQoyALNPm-4" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(8 , 8 , 8) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 13px&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;Segment&lt;/span&gt;&amp;lt;&lt;span style=&quot;color: #007e8a&quot;&gt;K&lt;/span&gt;,&lt;span style=&quot;color: #007e8a&quot;&gt;V&lt;/span&gt;&amp;gt; &lt;span style=&quot;color: #0033b3&quot;&gt;extends &lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;ReentrantLock&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 13px&quot;&gt;继承重入锁&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="70" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SpWOobQAloT7dxqmhvdy-2" value="hashEntry扩容" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="445" width="175" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SpWOobQAloT7dxqmhvdy-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SpWOobQAloT7dxqmhvdy-4" target="SpWOobQAloT7dxqmhvdy-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpWOobQAloT7dxqmhvdy-4" value="1:1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="440" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SpWOobQAloT7dxqmhvdy-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SpWOobQAloT7dxqmhvdy-6" target="SpWOobQAloT7dxqmhvdy-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpWOobQAloT7dxqmhvdy-6" value="2:2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="500" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SpWOobQAloT7dxqmhvdy-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SpWOobQAloT7dxqmhvdy-8" target="SpWOobQAloT7dxqmhvdy-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpWOobQAloT7dxqmhvdy-8" value="3:3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="560" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SpWOobQAloT7dxqmhvdy-34" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SpWOobQAloT7dxqmhvdy-9" target="SpWOobQAloT7dxqmhvdy-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpWOobQAloT7dxqmhvdy-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SpWOobQAloT7dxqmhvdy-9" target="SpWOobQAloT7dxqmhvdy-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpWOobQAloT7dxqmhvdy-41" value="1.先把相同连串的头挪过去，&lt;br&gt;那么后面的链表其实都已经过去了" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SpWOobQAloT7dxqmhvdy-40">
+          <mxGeometry x="-0.1163" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpWOobQAloT7dxqmhvdy-9" value="4:4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="610" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SpWOobQAloT7dxqmhvdy-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15" y="440" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SpWOobQAloT7dxqmhvdy-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="440" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SpWOobQAloT7dxqmhvdy-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="440" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SpWOobQAloT7dxqmhvdy-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="440" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SpWOobQAloT7dxqmhvdy-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="440" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SpWOobQAloT7dxqmhvdy-39" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SpWOobQAloT7dxqmhvdy-33" target="SpWOobQAloT7dxqmhvdy-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpWOobQAloT7dxqmhvdy-33" value="5:5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="670" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SpWOobQAloT7dxqmhvdy-35" value="先记录下链表最后面几个移到相同位置的几个节点，然后把他们的开头移过去，再把开头往上再移过去" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="600" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SpWOobQAloT7dxqmhvdy-37" value="这三个几点扩容到相同位置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="660" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SpWOobQAloT7dxqmhvdy-38" value="6:6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="730" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SpWOobQAloT7dxqmhvdy-44" value="2.让后再从链表的头部&lt;br&gt;到最后连串的头部，移动链表" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SpWOobQAloT7dxqmhvdy-43" target="SpWOobQAloT7dxqmhvdy-14">
+          <mxGeometry x="0.2241" y="-28" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
