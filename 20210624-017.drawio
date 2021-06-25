@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T07:39:47.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="p8Uy7So2nb0HJgjxZPzf" version="14.8.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-06-25T07:40:16.753Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="3TYF8OdtwyJfQ9xPudIZ" version="14.8.0" type="github" pages="6">
   <diagram id="0p2k3eU1hQrOL5BQR_aa" name="17">
     <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2897,12 +2897,12 @@
         <mxCell id="8l18L0TqaohexE3DBxcY-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="8l18L0TqaohexE3DBxcY-5">
           <mxGeometry x="45" y="100" width="10" height="3560" as="geometry" />
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-7" value="输入新增权益中台支撑权益价格产品配置策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" source="8l18L0TqaohexE3DBxcY-6" target="8l18L0TqaohexE3DBxcY-2">
+        <mxCell id="8l18L0TqaohexE3DBxcY-7" value="输入新增价格产品退订流程策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" source="8l18L0TqaohexE3DBxcY-6" target="8l18L0TqaohexE3DBxcY-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="419" y="190" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-8" value="写入数据库新增权益中台支撑权益价格产品配置策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" source="8l18L0TqaohexE3DBxcY-2" target="8l18L0TqaohexE3DBxcY-4">
+        <mxCell id="8l18L0TqaohexE3DBxcY-8" value="写入数据库新增价格产品退订流程策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" source="8l18L0TqaohexE3DBxcY-2" target="8l18L0TqaohexE3DBxcY-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="569" y="200" as="sourcePoint" />
           </mxGeometry>
@@ -2919,7 +2919,7 @@
             <mxPoint x="174" y="340.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-11" value="输出新增权益中台支撑权益价格产品配置策略结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8l18L0TqaohexE3DBxcY-10">
+        <mxCell id="8l18L0TqaohexE3DBxcY-11" value="输出新增价格产品退订流程策略结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8l18L0TqaohexE3DBxcY-10">
           <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
             <mxPoint x="6" y="-10.010000000000002" as="offset" />
           </mxGeometry>
@@ -2930,12 +2930,12 @@
         <mxCell id="8l18L0TqaohexE3DBxcY-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="qcI0YegBstdh6h1V3GXZ-1">
           <mxGeometry x="804" y="440" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-14" value="输入修改权益中台支撑权益价格产品配置策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" target="8l18L0TqaohexE3DBxcY-12">
+        <mxCell id="8l18L0TqaohexE3DBxcY-14" value="输入修改价格产品退订流程策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" target="8l18L0TqaohexE3DBxcY-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="174" y="420" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-15" value="写入数据库修改权益中台支撑权益价格产品配置策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" source="8l18L0TqaohexE3DBxcY-12" target="8l18L0TqaohexE3DBxcY-13">
+        <mxCell id="8l18L0TqaohexE3DBxcY-15" value="写入数据库修改价格产品退订流程策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" source="8l18L0TqaohexE3DBxcY-12" target="8l18L0TqaohexE3DBxcY-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="569" y="440" as="sourcePoint" />
           </mxGeometry>
@@ -2952,7 +2952,7 @@
             <mxPoint x="174" y="580.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-18" value="输出修改权益中台支撑权益价格产品配置策略结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8l18L0TqaohexE3DBxcY-17">
+        <mxCell id="8l18L0TqaohexE3DBxcY-18" value="输出修改价格产品退订流程策略结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8l18L0TqaohexE3DBxcY-17">
           <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
             <mxPoint x="6" y="-10.010000000000002" as="offset" />
           </mxGeometry>
@@ -2963,12 +2963,12 @@
         <mxCell id="8l18L0TqaohexE3DBxcY-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="qcI0YegBstdh6h1V3GXZ-1">
           <mxGeometry x="804" y="680" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-21" value="输入删除权益中台支撑权益价格产品配置策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" target="8l18L0TqaohexE3DBxcY-19">
+        <mxCell id="8l18L0TqaohexE3DBxcY-21" value="输入删除价格产品退订流程策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" target="8l18L0TqaohexE3DBxcY-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="174" y="660" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-22" value="写入数据库删除权益中台支撑权益价格产品配置策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" source="8l18L0TqaohexE3DBxcY-19" target="8l18L0TqaohexE3DBxcY-20">
+        <mxCell id="8l18L0TqaohexE3DBxcY-22" value="写入数据库删除价格产品退订流程策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" source="8l18L0TqaohexE3DBxcY-19" target="8l18L0TqaohexE3DBxcY-20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="569" y="680" as="sourcePoint" />
           </mxGeometry>
@@ -2985,7 +2985,7 @@
             <mxPoint x="174" y="820.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-25" value="输出删除权益中台支撑权益价格产品配置策略结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8l18L0TqaohexE3DBxcY-24">
+        <mxCell id="8l18L0TqaohexE3DBxcY-25" value="输出删除价格产品退订流程策略结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8l18L0TqaohexE3DBxcY-24">
           <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
             <mxPoint x="6" y="-10.010000000000002" as="offset" />
           </mxGeometry>
@@ -2996,12 +2996,12 @@
         <mxCell id="8l18L0TqaohexE3DBxcY-27" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="qcI0YegBstdh6h1V3GXZ-1">
           <mxGeometry x="804" y="990" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-28" value="输入查看权益中台支撑权益价格产品配置策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" target="8l18L0TqaohexE3DBxcY-26">
+        <mxCell id="8l18L0TqaohexE3DBxcY-28" value="输入查看价格产品退订流程策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" target="8l18L0TqaohexE3DBxcY-26">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="174" y="970" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-29" value="读取数据库查看权益中台支撑权益价格产品配置策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" source="8l18L0TqaohexE3DBxcY-26" target="8l18L0TqaohexE3DBxcY-27">
+        <mxCell id="8l18L0TqaohexE3DBxcY-29" value="读取数据库查看价格产品退订流程策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" source="8l18L0TqaohexE3DBxcY-26" target="8l18L0TqaohexE3DBxcY-27">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="569" y="990" as="sourcePoint" />
           </mxGeometry>
@@ -3018,7 +3018,7 @@
             <mxPoint x="174" y="1130.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-32" value="输出查看权益中台支撑权益价格产品配置策略结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8l18L0TqaohexE3DBxcY-31">
+        <mxCell id="8l18L0TqaohexE3DBxcY-32" value="输出查看价格产品退订流程策略结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8l18L0TqaohexE3DBxcY-31">
           <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
             <mxPoint x="6" y="-10.010000000000002" as="offset" />
           </mxGeometry>
@@ -3029,12 +3029,12 @@
         <mxCell id="8l18L0TqaohexE3DBxcY-34" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="qcI0YegBstdh6h1V3GXZ-1">
           <mxGeometry x="804" y="1240" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-35" value="输入启用权益中台支撑权益价格产品配置策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" target="8l18L0TqaohexE3DBxcY-33">
+        <mxCell id="8l18L0TqaohexE3DBxcY-35" value="输入启用价格产品退订流程策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" target="8l18L0TqaohexE3DBxcY-33">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="174" y="1219.9999999999998" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-36" value="修改数据库启用权益中台支撑权益价格产品配置策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" source="8l18L0TqaohexE3DBxcY-33" target="8l18L0TqaohexE3DBxcY-34">
+        <mxCell id="8l18L0TqaohexE3DBxcY-36" value="修改数据库启用价格产品退订流程策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" source="8l18L0TqaohexE3DBxcY-33" target="8l18L0TqaohexE3DBxcY-34">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="569" y="1240" as="sourcePoint" />
           </mxGeometry>
@@ -3051,7 +3051,7 @@
             <mxPoint x="174" y="1380.0100000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-39" value="输出启用权益中台支撑权益价格产品配置策略结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8l18L0TqaohexE3DBxcY-38">
+        <mxCell id="8l18L0TqaohexE3DBxcY-39" value="输出启用价格产品退订流程策略结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8l18L0TqaohexE3DBxcY-38">
           <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
             <mxPoint x="6" y="-10.010000000000002" as="offset" />
           </mxGeometry>
@@ -3062,12 +3062,12 @@
         <mxCell id="8l18L0TqaohexE3DBxcY-41" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="qcI0YegBstdh6h1V3GXZ-1">
           <mxGeometry x="804" y="1490" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-42" value="输入禁用权益中台支撑权益价格产品配置策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" target="8l18L0TqaohexE3DBxcY-40">
+        <mxCell id="8l18L0TqaohexE3DBxcY-42" value="输入禁用价格产品退订流程策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" target="8l18L0TqaohexE3DBxcY-40">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="174" y="1470" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-43" value="修改数据库禁用权益中台支撑权益价格产品配置策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" source="8l18L0TqaohexE3DBxcY-40" target="8l18L0TqaohexE3DBxcY-41">
+        <mxCell id="8l18L0TqaohexE3DBxcY-43" value="修改数据库禁用价格产品退订流程策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" source="8l18L0TqaohexE3DBxcY-40" target="8l18L0TqaohexE3DBxcY-41">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="569" y="1490" as="sourcePoint" />
           </mxGeometry>
@@ -3078,7 +3078,7 @@
             <mxPoint x="499" y="1559" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-45" value="输出禁用权益中台支撑权益价格产品配置策略结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1">
+        <mxCell id="8l18L0TqaohexE3DBxcY-45" value="输出禁用价格产品退订流程策略结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1">
           <mxGeometry x="0.0363" relative="1" as="geometry">
             <mxPoint x="477" y="1630" as="sourcePoint" />
             <mxPoint x="174" y="1630.0100000000002" as="targetPoint" />
@@ -3091,12 +3091,12 @@
         <mxCell id="8l18L0TqaohexE3DBxcY-47" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="qcI0YegBstdh6h1V3GXZ-1">
           <mxGeometry x="804" y="1730" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-48" value="输入导入权益中台支撑权益价格产品配置策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" target="8l18L0TqaohexE3DBxcY-46">
+        <mxCell id="8l18L0TqaohexE3DBxcY-48" value="输入导入价格产品退订流程策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" target="8l18L0TqaohexE3DBxcY-46">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="174" y="1710" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-49" value="写入数据库导入的权益中台支撑权益价格产品配置策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" source="8l18L0TqaohexE3DBxcY-46" target="8l18L0TqaohexE3DBxcY-47">
+        <mxCell id="8l18L0TqaohexE3DBxcY-49" value="写入数据库导入的价格产品退订流程策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" source="8l18L0TqaohexE3DBxcY-46" target="8l18L0TqaohexE3DBxcY-47">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="569" y="1730" as="sourcePoint" />
           </mxGeometry>
@@ -3107,7 +3107,7 @@
             <mxPoint x="499" y="1799" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-51" value="输出导入权益中台支撑权益价格产品配置策略结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1">
+        <mxCell id="8l18L0TqaohexE3DBxcY-51" value="输出导入价格产品退订流程策略结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="477" y="1870" as="sourcePoint" />
             <mxPoint x="174" y="1870.0100000000002" as="targetPoint" />
@@ -3119,12 +3119,12 @@
         <mxCell id="8l18L0TqaohexE3DBxcY-53" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="qcI0YegBstdh6h1V3GXZ-1">
           <mxGeometry x="804" y="1980" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-54" value="输入下载权益中台支撑权益价格产品配置策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" target="8l18L0TqaohexE3DBxcY-52">
+        <mxCell id="8l18L0TqaohexE3DBxcY-54" value="输入下载价格产品退订流程策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" target="8l18L0TqaohexE3DBxcY-52">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="174" y="1960" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-55" value="写入数据库下载的权益中台支撑权益价格产品配置策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" source="8l18L0TqaohexE3DBxcY-52" target="8l18L0TqaohexE3DBxcY-53">
+        <mxCell id="8l18L0TqaohexE3DBxcY-55" value="写入数据库下载的价格产品退订流程策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" source="8l18L0TqaohexE3DBxcY-52" target="8l18L0TqaohexE3DBxcY-53">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="569" y="1980" as="sourcePoint" />
           </mxGeometry>
@@ -3135,7 +3135,7 @@
             <mxPoint x="499" y="2049" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-57" value="输出下载权益中台支撑权益价格产品配置策略结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1">
+        <mxCell id="8l18L0TqaohexE3DBxcY-57" value="输出下载价格产品退订流程策略结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="477" y="2120" as="sourcePoint" />
             <mxPoint x="174" y="2120.01" as="targetPoint" />
@@ -3147,12 +3147,12 @@
         <mxCell id="8l18L0TqaohexE3DBxcY-59" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="qcI0YegBstdh6h1V3GXZ-1">
           <mxGeometry x="804" y="2220" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-60" value="输入权益中台支撑权益价格产品配置策略列表信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" target="8l18L0TqaohexE3DBxcY-58">
+        <mxCell id="8l18L0TqaohexE3DBxcY-60" value="输入价格产品退订流程策略列表信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" target="8l18L0TqaohexE3DBxcY-58">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="174" y="2200" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-61" value="读取数据库权益中台支撑权益价格产品配置策略列表信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" source="8l18L0TqaohexE3DBxcY-58" target="8l18L0TqaohexE3DBxcY-59">
+        <mxCell id="8l18L0TqaohexE3DBxcY-61" value="读取数据库价格产品退订流程策略列表信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" source="8l18L0TqaohexE3DBxcY-58" target="8l18L0TqaohexE3DBxcY-59">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="569" y="2220" as="sourcePoint" />
           </mxGeometry>
@@ -3163,7 +3163,7 @@
             <mxPoint x="499" y="2289" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-63" value="输出权益中台支撑权益价格产品配置策略列表信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1">
+        <mxCell id="8l18L0TqaohexE3DBxcY-63" value="输出价格产品退订流程策略列表信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="477" y="2360" as="sourcePoint" />
             <mxPoint x="174" y="2360.01" as="targetPoint" />
@@ -3175,12 +3175,12 @@
         <mxCell id="8l18L0TqaohexE3DBxcY-65" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="qcI0YegBstdh6h1V3GXZ-1">
           <mxGeometry x="804" y="2461" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-66" value="输入权益中台支撑权益价格产品配置策略分页信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" target="8l18L0TqaohexE3DBxcY-64">
+        <mxCell id="8l18L0TqaohexE3DBxcY-66" value="输入价格产品退订流程策略分页信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" target="8l18L0TqaohexE3DBxcY-64">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="174" y="2441.166666666667" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-67" value="读取数据库权益中台支撑权益价格产品配置策略分页信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" source="8l18L0TqaohexE3DBxcY-64" target="8l18L0TqaohexE3DBxcY-65">
+        <mxCell id="8l18L0TqaohexE3DBxcY-67" value="读取数据库价格产品退订流程策略分页信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" source="8l18L0TqaohexE3DBxcY-64" target="8l18L0TqaohexE3DBxcY-65">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="569" y="2461" as="sourcePoint" />
           </mxGeometry>
@@ -3191,7 +3191,7 @@
             <mxPoint x="499" y="2530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-69" value="输出权益中台支撑权益价格产品配置策略分页信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1">
+        <mxCell id="8l18L0TqaohexE3DBxcY-69" value="输出价格产品退订流程策略分页信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="477" y="2601" as="sourcePoint" />
             <mxPoint x="174" y="2601.01" as="targetPoint" />
@@ -3203,12 +3203,12 @@
         <mxCell id="8l18L0TqaohexE3DBxcY-71" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="qcI0YegBstdh6h1V3GXZ-1">
           <mxGeometry x="804" y="2701" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-72" value="输入权益中台支撑权益价格产品配置策略导出信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" target="8l18L0TqaohexE3DBxcY-70">
+        <mxCell id="8l18L0TqaohexE3DBxcY-72" value="输入价格产品退订流程策略导出信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" target="8l18L0TqaohexE3DBxcY-70">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="174" y="2681" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-73" value="读取数据库权益中台支撑权益价格产品配置策略导出信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" source="8l18L0TqaohexE3DBxcY-70" target="8l18L0TqaohexE3DBxcY-71">
+        <mxCell id="8l18L0TqaohexE3DBxcY-73" value="读取数据库价格产品退订流程策略导出信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" source="8l18L0TqaohexE3DBxcY-70" target="8l18L0TqaohexE3DBxcY-71">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="569" y="2701" as="sourcePoint" />
           </mxGeometry>
@@ -3225,7 +3225,7 @@
             <mxPoint x="174" y="2841.0099999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-76" value="输出权益中台支撑权益价格产品配置策略导出信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8l18L0TqaohexE3DBxcY-75">
+        <mxCell id="8l18L0TqaohexE3DBxcY-76" value="输出价格产品退订流程策略导出信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8l18L0TqaohexE3DBxcY-75">
           <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
             <mxPoint x="6" y="-10.010000000000002" as="offset" />
           </mxGeometry>
@@ -3236,12 +3236,12 @@
         <mxCell id="8l18L0TqaohexE3DBxcY-78" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="qcI0YegBstdh6h1V3GXZ-1">
           <mxGeometry x="804" y="2941" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-79" value="输入权益中台支撑权益价格产品配置策略审批信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" target="8l18L0TqaohexE3DBxcY-77">
+        <mxCell id="8l18L0TqaohexE3DBxcY-79" value="输入价格产品退订流程策略审批信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" target="8l18L0TqaohexE3DBxcY-77">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="174" y="2921" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-80" value="写入数据库权益中台支撑权益价格产品配置策略审批信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" source="8l18L0TqaohexE3DBxcY-77" target="8l18L0TqaohexE3DBxcY-78">
+        <mxCell id="8l18L0TqaohexE3DBxcY-80" value="写入数据库价格产品退订流程策略审批信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" source="8l18L0TqaohexE3DBxcY-77" target="8l18L0TqaohexE3DBxcY-78">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="569" y="2941" as="sourcePoint" />
           </mxGeometry>
@@ -3258,7 +3258,7 @@
             <mxPoint x="174" y="3081.0099999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-83" value="输出权益中台支撑权益价格产品配置策略审批结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8l18L0TqaohexE3DBxcY-82">
+        <mxCell id="8l18L0TqaohexE3DBxcY-83" value="输出价格产品退订流程策略审批结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8l18L0TqaohexE3DBxcY-82">
           <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
             <mxPoint x="6" y="-10.010000000000002" as="offset" />
           </mxGeometry>
@@ -3269,12 +3269,12 @@
         <mxCell id="8l18L0TqaohexE3DBxcY-85" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="qcI0YegBstdh6h1V3GXZ-1">
           <mxGeometry x="804" y="3251" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-86" value="输入权益中台支撑权益价格产品配置策略审批记录信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" target="8l18L0TqaohexE3DBxcY-84">
+        <mxCell id="8l18L0TqaohexE3DBxcY-86" value="输入价格产品退订流程策略审批记录信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" target="8l18L0TqaohexE3DBxcY-84">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="174" y="3231" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-87" value="写入数据库权益中台支撑权益价格产品配置策略审批记录信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" source="8l18L0TqaohexE3DBxcY-84" target="8l18L0TqaohexE3DBxcY-85">
+        <mxCell id="8l18L0TqaohexE3DBxcY-87" value="写入数据库价格产品退订流程策略审批记录信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" source="8l18L0TqaohexE3DBxcY-84" target="8l18L0TqaohexE3DBxcY-85">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="569" y="3251" as="sourcePoint" />
           </mxGeometry>
@@ -3291,7 +3291,7 @@
             <mxPoint x="174" y="3391.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-90" value="输出权益中台支撑权益价格产品配置策略审批记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8l18L0TqaohexE3DBxcY-89">
+        <mxCell id="8l18L0TqaohexE3DBxcY-90" value="输出价格产品退订流程策略审批记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8l18L0TqaohexE3DBxcY-89">
           <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
             <mxPoint x="6" y="-10.010000000000002" as="offset" />
           </mxGeometry>
@@ -3302,12 +3302,12 @@
         <mxCell id="8l18L0TqaohexE3DBxcY-92" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="qcI0YegBstdh6h1V3GXZ-1">
           <mxGeometry x="804" y="3501" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-93" value="输入权益中台支撑权益价格产品配置策略监控记录信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" target="8l18L0TqaohexE3DBxcY-91">
+        <mxCell id="8l18L0TqaohexE3DBxcY-93" value="输入价格产品退订流程策略监控记录信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" target="8l18L0TqaohexE3DBxcY-91">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="174" y="3481" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-94" value="写入数据库权益中台支撑权益价格产品配置策略监控记录信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" source="8l18L0TqaohexE3DBxcY-91" target="8l18L0TqaohexE3DBxcY-92">
+        <mxCell id="8l18L0TqaohexE3DBxcY-94" value="写入数据库价格产品退订流程策略监控记录信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="qcI0YegBstdh6h1V3GXZ-1" source="8l18L0TqaohexE3DBxcY-91" target="8l18L0TqaohexE3DBxcY-92">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="569" y="3501" as="sourcePoint" />
           </mxGeometry>
@@ -3324,7 +3324,7 @@
             <mxPoint x="174" y="3641.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8l18L0TqaohexE3DBxcY-97" value="输出权益中台支撑权益价格产品配置策略监控记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8l18L0TqaohexE3DBxcY-96">
+        <mxCell id="8l18L0TqaohexE3DBxcY-97" value="输出价格产品退订流程策略监控记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8l18L0TqaohexE3DBxcY-96">
           <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
             <mxPoint x="6" y="-10.010000000000002" as="offset" />
           </mxGeometry>
