@@ -1,458 +1,458 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T08:57:43.959Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="dFnb4N0YTiLXQGox7Vv8" version="14.8.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-25T08:59:10.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="wj0hv37ygwge_R8sa6LG" version="14.8.0" type="github" pages="2">
   <diagram id="pzeB38YV-Vg2la-Ex8Tj" name="24-2">
     <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-1" value="权益组合基本信息管理" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-1" value="权益组合基本信息管理" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" parent="1" vertex="1">
           <mxGeometry x="19" y="45" width="960" height="3785" as="geometry" />
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-2" value="权益运营管理平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-2" value="权益运营管理平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="439" y="80" width="100" height="3720" as="geometry" />
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="Gmirbs6FU1A6SS8bkZe8-2">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="Gmirbs6FU1A6SS8bkZe8-2" vertex="1">
           <mxGeometry x="45" y="100" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-4" value="MYSQL" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-4" value="MYSQL" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="759" y="80" width="100" height="3720" as="geometry" />
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="Gmirbs6FU1A6SS8bkZe8-4">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="Gmirbs6FU1A6SS8bkZe8-4" vertex="1">
           <mxGeometry x="45" y="120" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-6" value="运营人员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-6" value="运营人员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="119" y="80" width="100" height="3720" as="geometry" />
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="Gmirbs6FU1A6SS8bkZe8-6">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="Gmirbs6FU1A6SS8bkZe8-6" vertex="1">
           <mxGeometry x="45" y="100" width="10" height="3560" as="geometry" />
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-8" value="输入新增权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="Gmirbs6FU1A6SS8bkZe8-7" target="Gmirbs6FU1A6SS8bkZe8-3">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-8" value="输入新增权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="Gmirbs6FU1A6SS8bkZe8-7" target="Gmirbs6FU1A6SS8bkZe8-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="419" y="190" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-9" value="写入数据库新增权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="Gmirbs6FU1A6SS8bkZe8-3" target="Gmirbs6FU1A6SS8bkZe8-5">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-9" value="写入数据库新增权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="Gmirbs6FU1A6SS8bkZe8-3" target="Gmirbs6FU1A6SS8bkZe8-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="569" y="200" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-10" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-10" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="799" y="269" as="sourcePoint" />
             <mxPoint x="499" y="269" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-11" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-11" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="477.00000000000045" y="340" as="sourcePoint" />
             <mxPoint x="174" y="340.0100000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-12" value="输出新增权益组合基本信息管理策略结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gmirbs6FU1A6SS8bkZe8-11">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-12" value="输出新增权益组合基本信息管理策略结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Gmirbs6FU1A6SS8bkZe8-11" vertex="1" connectable="0">
           <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
             <mxPoint x="6" y="-10.010000000000002" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="484" y="420" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="804" y="440" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-15" value="输入修改权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" target="Gmirbs6FU1A6SS8bkZe8-13">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-15" value="输入修改权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" target="Gmirbs6FU1A6SS8bkZe8-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="174" y="420" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-16" value="写入数据库修改权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="Gmirbs6FU1A6SS8bkZe8-13" target="Gmirbs6FU1A6SS8bkZe8-14">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-16" value="写入数据库修改权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="Gmirbs6FU1A6SS8bkZe8-13" target="Gmirbs6FU1A6SS8bkZe8-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="569" y="440" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-17" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-17" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="799" y="509" as="sourcePoint" />
             <mxPoint x="499" y="509" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-18" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-18" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="477.00000000000045" y="580" as="sourcePoint" />
             <mxPoint x="174" y="580.0100000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-19" value="输出修改权益组合基本信息管理策略结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gmirbs6FU1A6SS8bkZe8-18">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-19" value="输出修改权益组合基本信息管理策略结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Gmirbs6FU1A6SS8bkZe8-18" vertex="1" connectable="0">
           <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
             <mxPoint x="6" y="-10.010000000000002" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="484" y="660" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="804" y="680" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-22" value="输入删除权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" target="Gmirbs6FU1A6SS8bkZe8-20">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-22" value="输入删除权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" target="Gmirbs6FU1A6SS8bkZe8-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="174" y="660" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-23" value="写入数据库删除权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="Gmirbs6FU1A6SS8bkZe8-20" target="Gmirbs6FU1A6SS8bkZe8-21">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-23" value="写入数据库删除权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="Gmirbs6FU1A6SS8bkZe8-20" target="Gmirbs6FU1A6SS8bkZe8-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="569" y="680" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-24" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-24" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="799" y="748.9999999999995" as="sourcePoint" />
             <mxPoint x="499" y="748.9999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-25" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-25" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="477.00000000000045" y="820" as="sourcePoint" />
             <mxPoint x="174" y="820.0100000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-26" value="输出删除权益组合基本信息管理策略结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gmirbs6FU1A6SS8bkZe8-25">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-26" value="输出删除权益组合基本信息管理策略结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Gmirbs6FU1A6SS8bkZe8-25" vertex="1" connectable="0">
           <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
             <mxPoint x="6" y="-10.010000000000002" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-27" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-27" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="484" y="970" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="804" y="990" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-29" value="输入查看权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" target="Gmirbs6FU1A6SS8bkZe8-27">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-29" value="输入查看权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" target="Gmirbs6FU1A6SS8bkZe8-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="174" y="970" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-30" value="读取数据库查看权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="Gmirbs6FU1A6SS8bkZe8-27" target="Gmirbs6FU1A6SS8bkZe8-28">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-30" value="读取数据库查看权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="Gmirbs6FU1A6SS8bkZe8-27" target="Gmirbs6FU1A6SS8bkZe8-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="569" y="990" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-31" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-31" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="799" y="1058.9999999999995" as="sourcePoint" />
             <mxPoint x="499" y="1058.9999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-32" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-32" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="477.00000000000045" y="1130" as="sourcePoint" />
             <mxPoint x="174" y="1130.0100000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-33" value="输出查看权益组合基本信息管理策略结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gmirbs6FU1A6SS8bkZe8-32">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-33" value="输出查看权益组合基本信息管理策略结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Gmirbs6FU1A6SS8bkZe8-32" vertex="1" connectable="0">
           <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
             <mxPoint x="6" y="-10.010000000000002" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-34" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-34" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="484" y="1220" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-35" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-35" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="804" y="1240" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-36" value="输入启用权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" target="Gmirbs6FU1A6SS8bkZe8-34">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-36" value="输入启用权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" target="Gmirbs6FU1A6SS8bkZe8-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="174" y="1220" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-37" value="修改数据库启用权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="Gmirbs6FU1A6SS8bkZe8-34" target="Gmirbs6FU1A6SS8bkZe8-35">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-37" value="修改数据库启用权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="Gmirbs6FU1A6SS8bkZe8-34" target="Gmirbs6FU1A6SS8bkZe8-35" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="569" y="1240" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-38" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-38" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="799" y="1309.0000000000005" as="sourcePoint" />
             <mxPoint x="499" y="1309.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-39" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-39" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="477.00000000000045" y="1380" as="sourcePoint" />
             <mxPoint x="174" y="1380.0100000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-40" value="输出启用权益组合基本信息管理策略结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gmirbs6FU1A6SS8bkZe8-39">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-40" value="输出启用权益组合基本信息管理策略结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Gmirbs6FU1A6SS8bkZe8-39" vertex="1" connectable="0">
           <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
             <mxPoint x="6" y="-10.010000000000002" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-41" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-41" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="484" y="1470" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-42" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-42" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="804" y="1490" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-43" value="输入禁用权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" target="Gmirbs6FU1A6SS8bkZe8-41">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-43" value="输入禁用权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" target="Gmirbs6FU1A6SS8bkZe8-41" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="174" y="1470" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-44" value="修改数据库禁用权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="Gmirbs6FU1A6SS8bkZe8-41" target="Gmirbs6FU1A6SS8bkZe8-42">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-44" value="修改数据库禁用权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="Gmirbs6FU1A6SS8bkZe8-41" target="Gmirbs6FU1A6SS8bkZe8-42" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="569" y="1490" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-45" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-45" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="799" y="1559.0000000000005" as="sourcePoint" />
             <mxPoint x="499" y="1559.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-46" value="输出禁用权益组合基本信息管理策略结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-46" value="输出禁用权益组合基本信息管理策略结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry x="0.0363" relative="1" as="geometry">
             <mxPoint x="477.00000000000045" y="1630" as="sourcePoint" />
             <mxPoint x="174" y="1630.0100000000002" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-47" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-47" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="484" y="1710" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-48" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-48" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="804" y="1730" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-49" value="输入导入权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" target="Gmirbs6FU1A6SS8bkZe8-47">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-49" value="输入导入权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" target="Gmirbs6FU1A6SS8bkZe8-47" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="174" y="1710" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-50" value="写入数据库导入的权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="Gmirbs6FU1A6SS8bkZe8-47" target="Gmirbs6FU1A6SS8bkZe8-48">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-50" value="写入数据库导入的权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="Gmirbs6FU1A6SS8bkZe8-47" target="Gmirbs6FU1A6SS8bkZe8-48" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="569" y="1730" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-51" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-51" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="799" y="1799.0000000000005" as="sourcePoint" />
             <mxPoint x="499" y="1799.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-52" value="输出导入权益组合基本信息管理策略结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-52" value="输出导入权益组合基本信息管理策略结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="477.00000000000045" y="1870" as="sourcePoint" />
             <mxPoint x="174" y="1870.0100000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-53" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-53" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="484" y="1960" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-54" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-54" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="804" y="1980" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-55" value="输入下载权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" target="Gmirbs6FU1A6SS8bkZe8-53">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-55" value="输入下载权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" target="Gmirbs6FU1A6SS8bkZe8-53" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="174" y="1960" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-56" value="写入数据库下载的权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="Gmirbs6FU1A6SS8bkZe8-53" target="Gmirbs6FU1A6SS8bkZe8-54">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-56" value="写入数据库下载的权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="Gmirbs6FU1A6SS8bkZe8-53" target="Gmirbs6FU1A6SS8bkZe8-54" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="569" y="1980" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-57" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-57" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="799" y="2049.0000000000005" as="sourcePoint" />
             <mxPoint x="499" y="2049.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-58" value="输出下载权益组合基本信息管理策略结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-58" value="输出下载权益组合基本信息管理策略结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="477.00000000000045" y="2120" as="sourcePoint" />
             <mxPoint x="174" y="2120.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-59" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-59" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="484" y="2200" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-60" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-60" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="804" y="2220" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-61" value="输入权益组合基本信息管理策略列表信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" target="Gmirbs6FU1A6SS8bkZe8-59">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-61" value="输入权益组合基本信息管理策略列表信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" target="Gmirbs6FU1A6SS8bkZe8-59" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="174" y="2200" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-62" value="读取数据库权益组合基本信息管理策略列表信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="Gmirbs6FU1A6SS8bkZe8-59" target="Gmirbs6FU1A6SS8bkZe8-60">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-62" value="读取数据库权益组合基本信息管理策略列表信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="Gmirbs6FU1A6SS8bkZe8-59" target="Gmirbs6FU1A6SS8bkZe8-60" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="569" y="2220" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-63" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-63" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="799" y="2289" as="sourcePoint" />
             <mxPoint x="499" y="2289" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-64" value="输出权益组合基本信息管理策略列表信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-64" value="输出权益组合基本信息管理策略列表信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="477.00000000000045" y="2360" as="sourcePoint" />
             <mxPoint x="174" y="2360.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-65" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-65" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="484" y="2441" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-66" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-66" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="804" y="2461" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-67" value="输入权益组合基本信息管理策略分页信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" target="Gmirbs6FU1A6SS8bkZe8-65">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-67" value="输入权益组合基本信息管理策略分页信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" target="Gmirbs6FU1A6SS8bkZe8-65" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="174" y="2441.166666666667" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-68" value="读取数据库权益组合基本信息管理策略分页信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="Gmirbs6FU1A6SS8bkZe8-65" target="Gmirbs6FU1A6SS8bkZe8-66">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-68" value="读取数据库权益组合基本信息管理策略分页信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="Gmirbs6FU1A6SS8bkZe8-65" target="Gmirbs6FU1A6SS8bkZe8-66" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="569" y="2461" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-69" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-69" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="799" y="2530" as="sourcePoint" />
             <mxPoint x="499" y="2530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-70" value="输出权益组合基本信息管理策略分页信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-70" value="输出权益组合基本信息管理策略分页信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="477.00000000000045" y="2601" as="sourcePoint" />
             <mxPoint x="174" y="2601.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-71" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-71" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="484" y="2681" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-72" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-72" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="804" y="2701" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-73" value="输入权益组合基本信息管理策略导出信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" target="Gmirbs6FU1A6SS8bkZe8-71">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-73" value="输入权益组合基本信息管理策略导出信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" target="Gmirbs6FU1A6SS8bkZe8-71" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="174" y="2681" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-74" value="读取数据库权益组合基本信息管理策略导出信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="Gmirbs6FU1A6SS8bkZe8-71" target="Gmirbs6FU1A6SS8bkZe8-72">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-74" value="读取数据库权益组合基本信息管理策略导出信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="Gmirbs6FU1A6SS8bkZe8-71" target="Gmirbs6FU1A6SS8bkZe8-72" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="569" y="2701" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-75" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-75" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="799" y="2770" as="sourcePoint" />
             <mxPoint x="499" y="2770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-76" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-76" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="477.00000000000045" y="2841" as="sourcePoint" />
             <mxPoint x="174" y="2841.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-77" value="输出权益组合基本信息管理策略导出信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gmirbs6FU1A6SS8bkZe8-76">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-77" value="输出权益组合基本信息管理策略导出信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Gmirbs6FU1A6SS8bkZe8-76" vertex="1" connectable="0">
           <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
             <mxPoint x="6" y="-10.010000000000002" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-78" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-78" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="484" y="2921" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-79" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-79" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="804" y="2941" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-80" value="输入权益组合基本信息管理策略审批信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" target="Gmirbs6FU1A6SS8bkZe8-78">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-80" value="输入权益组合基本信息管理策略审批信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" target="Gmirbs6FU1A6SS8bkZe8-78" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="174" y="2921" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-81" value="写入数据库权益组合基本信息管理策略审批信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="Gmirbs6FU1A6SS8bkZe8-78" target="Gmirbs6FU1A6SS8bkZe8-79">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-81" value="写入数据库权益组合基本信息管理策略审批信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="Gmirbs6FU1A6SS8bkZe8-78" target="Gmirbs6FU1A6SS8bkZe8-79" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="569" y="2941" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-82" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-82" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="799" y="3010" as="sourcePoint" />
             <mxPoint x="499" y="3010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-83" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-83" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="477.00000000000045" y="3081" as="sourcePoint" />
             <mxPoint x="174" y="3081.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-84" value="输出权益组合基本信息管理策略审批结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gmirbs6FU1A6SS8bkZe8-83">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-84" value="输出权益组合基本信息管理策略审批结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Gmirbs6FU1A6SS8bkZe8-83" vertex="1" connectable="0">
           <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
             <mxPoint x="6" y="-10.010000000000002" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-85" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-85" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="484" y="3231" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-86" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-86" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="804" y="3251" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-87" value="输入权益组合基本信息管理策略审批记录信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" target="Gmirbs6FU1A6SS8bkZe8-85">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-87" value="输入权益组合基本信息管理策略审批记录信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" target="Gmirbs6FU1A6SS8bkZe8-85" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="174" y="3230.999999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-88" value="写入数据库权益组合基本信息管理策略审批记录信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="Gmirbs6FU1A6SS8bkZe8-85" target="Gmirbs6FU1A6SS8bkZe8-86">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-88" value="写入数据库权益组合基本信息管理策略审批记录信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="Gmirbs6FU1A6SS8bkZe8-85" target="Gmirbs6FU1A6SS8bkZe8-86" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="569" y="3251" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-89" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-89" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="799" y="3320" as="sourcePoint" />
             <mxPoint x="499" y="3320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-90" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-90" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="477.00000000000045" y="3390.999999999999" as="sourcePoint" />
             <mxPoint x="174" y="3391.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-91" value="输出权益组合基本信息管理策略审批记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gmirbs6FU1A6SS8bkZe8-90">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-91" value="输出权益组合基本信息管理策略审批记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Gmirbs6FU1A6SS8bkZe8-90" vertex="1" connectable="0">
           <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
             <mxPoint x="6" y="-10.010000000000002" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-92" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-92" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="484" y="3481" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-93" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-93" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="804" y="3501" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-94" value="输入权益组合基本信息管理策略监控记录信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" target="Gmirbs6FU1A6SS8bkZe8-92">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-94" value="输入权益组合基本信息管理策略监控记录信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" target="Gmirbs6FU1A6SS8bkZe8-92" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="174" y="3480.999999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-95" value="写入数据库权益组合基本信息管理策略监控记录信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="Gmirbs6FU1A6SS8bkZe8-92" target="Gmirbs6FU1A6SS8bkZe8-93">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-95" value="写入数据库权益组合基本信息管理策略监控记录信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="Gmirbs6FU1A6SS8bkZe8-92" target="Gmirbs6FU1A6SS8bkZe8-93" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="569" y="3501" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-96" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-96" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="799" y="3570" as="sourcePoint" />
             <mxPoint x="499" y="3570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-97" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-97" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="477.00000000000045" y="3640.999999999999" as="sourcePoint" />
             <mxPoint x="174" y="3641.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gmirbs6FU1A6SS8bkZe8-98" value="输出权益组合基本信息管理策略监控记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gmirbs6FU1A6SS8bkZe8-97">
+        <mxCell id="Gmirbs6FU1A6SS8bkZe8-98" value="输出权益组合基本信息管理策略监控记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Gmirbs6FU1A6SS8bkZe8-97" vertex="1" connectable="0">
           <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
             <mxPoint x="6" y="-10.010000000000002" as="offset" />
           </mxGeometry>
@@ -465,455 +465,455 @@
       <root>
         <mxCell id="LLtBhsj_NUratORO6nNz-0" />
         <mxCell id="LLtBhsj_NUratORO6nNz-1" parent="LLtBhsj_NUratORO6nNz-0" />
-        <mxCell id="f_pHgnO4XXwjE385aZXs-98" value="权益组合基本信息管理" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-98" value="权益组合需求来源信息" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" parent="LLtBhsj_NUratORO6nNz-1" vertex="1">
           <mxGeometry x="29" y="55" width="960" height="3785" as="geometry" />
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-99" value="权益运营管理平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-99" value="权益运营管理平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="LLtBhsj_NUratORO6nNz-1" vertex="1">
           <mxGeometry x="449" y="90" width="100" height="3720" as="geometry" />
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-100" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="f_pHgnO4XXwjE385aZXs-99">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-100" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="f_pHgnO4XXwjE385aZXs-99" vertex="1">
           <mxGeometry x="45" y="100" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-101" value="MYSQL" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-101" value="MYSQL" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="LLtBhsj_NUratORO6nNz-1" vertex="1">
           <mxGeometry x="769" y="90" width="100" height="3720" as="geometry" />
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-102" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="f_pHgnO4XXwjE385aZXs-101">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-102" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="f_pHgnO4XXwjE385aZXs-101" vertex="1">
           <mxGeometry x="45" y="120" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-103" value="运营人员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-103" value="运营人员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="LLtBhsj_NUratORO6nNz-1" vertex="1">
           <mxGeometry x="129" y="90" width="100" height="3720" as="geometry" />
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-104" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="f_pHgnO4XXwjE385aZXs-103">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-104" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="f_pHgnO4XXwjE385aZXs-103" vertex="1">
           <mxGeometry x="45" y="100" width="10" height="3560" as="geometry" />
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-105" value="输入新增权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="LLtBhsj_NUratORO6nNz-1" source="f_pHgnO4XXwjE385aZXs-104" target="f_pHgnO4XXwjE385aZXs-100">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-105" value="输入新增权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="LLtBhsj_NUratORO6nNz-1" source="f_pHgnO4XXwjE385aZXs-104" target="f_pHgnO4XXwjE385aZXs-100" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="429" y="200" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-106" value="写入数据库新增权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="LLtBhsj_NUratORO6nNz-1" source="f_pHgnO4XXwjE385aZXs-100" target="f_pHgnO4XXwjE385aZXs-102">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-106" value="写入数据库新增权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="LLtBhsj_NUratORO6nNz-1" source="f_pHgnO4XXwjE385aZXs-100" target="f_pHgnO4XXwjE385aZXs-102" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="579" y="210" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-107" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-107" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="LLtBhsj_NUratORO6nNz-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="809" y="279" as="sourcePoint" />
             <mxPoint x="509" y="279" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-108" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-108" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" parent="LLtBhsj_NUratORO6nNz-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="487.00000000000045" y="350" as="sourcePoint" />
             <mxPoint x="184" y="350.0100000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-109" value="输出新增权益组合基本信息管理策略结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f_pHgnO4XXwjE385aZXs-108">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-109" value="输出新增权益组合基本信息管理策略结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="f_pHgnO4XXwjE385aZXs-108" vertex="1" connectable="0">
           <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
             <mxPoint x="6" y="-10.010000000000002" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-110" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-110" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="LLtBhsj_NUratORO6nNz-1" vertex="1">
           <mxGeometry x="494" y="430" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-111" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-111" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="LLtBhsj_NUratORO6nNz-1" vertex="1">
           <mxGeometry x="814" y="450" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-112" value="输入修改权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="LLtBhsj_NUratORO6nNz-1" target="f_pHgnO4XXwjE385aZXs-110">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-112" value="输入修改权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="LLtBhsj_NUratORO6nNz-1" target="f_pHgnO4XXwjE385aZXs-110" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="184" y="430" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-113" value="写入数据库修改权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="LLtBhsj_NUratORO6nNz-1" source="f_pHgnO4XXwjE385aZXs-110" target="f_pHgnO4XXwjE385aZXs-111">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-113" value="写入数据库修改权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="LLtBhsj_NUratORO6nNz-1" source="f_pHgnO4XXwjE385aZXs-110" target="f_pHgnO4XXwjE385aZXs-111" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="579" y="450" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-114" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-114" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="LLtBhsj_NUratORO6nNz-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="809" y="519" as="sourcePoint" />
             <mxPoint x="509" y="519" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-115" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-115" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" parent="LLtBhsj_NUratORO6nNz-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="487.00000000000045" y="590" as="sourcePoint" />
             <mxPoint x="184" y="590.0100000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-116" value="输出修改权益组合基本信息管理策略结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f_pHgnO4XXwjE385aZXs-115">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-116" value="输出修改权益组合基本信息管理策略结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="f_pHgnO4XXwjE385aZXs-115" vertex="1" connectable="0">
           <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
             <mxPoint x="6" y="-10.010000000000002" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-117" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-117" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="LLtBhsj_NUratORO6nNz-1" vertex="1">
           <mxGeometry x="494" y="670" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-118" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-118" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="LLtBhsj_NUratORO6nNz-1" vertex="1">
           <mxGeometry x="814" y="690" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-119" value="输入删除权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="LLtBhsj_NUratORO6nNz-1" target="f_pHgnO4XXwjE385aZXs-117">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-119" value="输入删除权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="LLtBhsj_NUratORO6nNz-1" target="f_pHgnO4XXwjE385aZXs-117" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="184" y="670" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-120" value="写入数据库删除权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="LLtBhsj_NUratORO6nNz-1" source="f_pHgnO4XXwjE385aZXs-117" target="f_pHgnO4XXwjE385aZXs-118">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-120" value="写入数据库删除权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="LLtBhsj_NUratORO6nNz-1" source="f_pHgnO4XXwjE385aZXs-117" target="f_pHgnO4XXwjE385aZXs-118" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="579" y="690" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-121" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-121" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="LLtBhsj_NUratORO6nNz-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="809" y="758.9999999999995" as="sourcePoint" />
             <mxPoint x="509" y="758.9999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-122" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-122" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" parent="LLtBhsj_NUratORO6nNz-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="487.00000000000045" y="830" as="sourcePoint" />
             <mxPoint x="184" y="830.0100000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-123" value="输出删除权益组合基本信息管理策略结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f_pHgnO4XXwjE385aZXs-122">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-123" value="输出删除权益组合基本信息管理策略结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="f_pHgnO4XXwjE385aZXs-122" vertex="1" connectable="0">
           <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
             <mxPoint x="6" y="-10.010000000000002" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-124" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-124" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="LLtBhsj_NUratORO6nNz-1" vertex="1">
           <mxGeometry x="494" y="980" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-125" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-125" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="LLtBhsj_NUratORO6nNz-1" vertex="1">
           <mxGeometry x="814" y="1000" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-126" value="输入查看权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="LLtBhsj_NUratORO6nNz-1" target="f_pHgnO4XXwjE385aZXs-124">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-126" value="输入查看权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="LLtBhsj_NUratORO6nNz-1" target="f_pHgnO4XXwjE385aZXs-124" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="184" y="980" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-127" value="读取数据库查看权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="LLtBhsj_NUratORO6nNz-1" source="f_pHgnO4XXwjE385aZXs-124" target="f_pHgnO4XXwjE385aZXs-125">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-127" value="读取数据库查看权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="LLtBhsj_NUratORO6nNz-1" source="f_pHgnO4XXwjE385aZXs-124" target="f_pHgnO4XXwjE385aZXs-125" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="579" y="1000" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-128" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-128" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="LLtBhsj_NUratORO6nNz-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="809" y="1068.9999999999995" as="sourcePoint" />
             <mxPoint x="509" y="1068.9999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-129" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-129" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" parent="LLtBhsj_NUratORO6nNz-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="487.00000000000045" y="1140" as="sourcePoint" />
             <mxPoint x="184" y="1140.0100000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-130" value="输出查看权益组合基本信息管理策略结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f_pHgnO4XXwjE385aZXs-129">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-130" value="输出查看权益组合基本信息管理策略结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="f_pHgnO4XXwjE385aZXs-129" vertex="1" connectable="0">
           <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
             <mxPoint x="6" y="-10.010000000000002" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-131" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-131" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="LLtBhsj_NUratORO6nNz-1" vertex="1">
           <mxGeometry x="494" y="1230" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-132" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-132" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="LLtBhsj_NUratORO6nNz-1" vertex="1">
           <mxGeometry x="814" y="1250" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-133" value="输入启用权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="LLtBhsj_NUratORO6nNz-1" target="f_pHgnO4XXwjE385aZXs-131">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-133" value="输入启用权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="LLtBhsj_NUratORO6nNz-1" target="f_pHgnO4XXwjE385aZXs-131" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="184" y="1230" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-134" value="修改数据库启用权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="LLtBhsj_NUratORO6nNz-1" source="f_pHgnO4XXwjE385aZXs-131" target="f_pHgnO4XXwjE385aZXs-132">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-134" value="修改数据库启用权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="LLtBhsj_NUratORO6nNz-1" source="f_pHgnO4XXwjE385aZXs-131" target="f_pHgnO4XXwjE385aZXs-132" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="579" y="1250" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-135" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-135" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="LLtBhsj_NUratORO6nNz-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="809" y="1319.0000000000005" as="sourcePoint" />
             <mxPoint x="509" y="1319.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-136" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-136" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" parent="LLtBhsj_NUratORO6nNz-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="487.00000000000045" y="1390" as="sourcePoint" />
             <mxPoint x="184" y="1390.0100000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-137" value="输出启用权益组合基本信息管理策略结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f_pHgnO4XXwjE385aZXs-136">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-137" value="输出启用权益组合基本信息管理策略结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="f_pHgnO4XXwjE385aZXs-136" vertex="1" connectable="0">
           <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
             <mxPoint x="6" y="-10.010000000000002" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-138" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-138" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="LLtBhsj_NUratORO6nNz-1" vertex="1">
           <mxGeometry x="494" y="1480" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-139" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-139" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="LLtBhsj_NUratORO6nNz-1" vertex="1">
           <mxGeometry x="814" y="1500" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-140" value="输入禁用权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="LLtBhsj_NUratORO6nNz-1" target="f_pHgnO4XXwjE385aZXs-138">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-140" value="输入禁用权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="LLtBhsj_NUratORO6nNz-1" target="f_pHgnO4XXwjE385aZXs-138" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="184" y="1480" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-141" value="修改数据库禁用权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="LLtBhsj_NUratORO6nNz-1" source="f_pHgnO4XXwjE385aZXs-138" target="f_pHgnO4XXwjE385aZXs-139">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-141" value="修改数据库禁用权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="LLtBhsj_NUratORO6nNz-1" source="f_pHgnO4XXwjE385aZXs-138" target="f_pHgnO4XXwjE385aZXs-139" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="579" y="1500" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-142" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-142" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="LLtBhsj_NUratORO6nNz-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="809" y="1569.0000000000005" as="sourcePoint" />
             <mxPoint x="509" y="1569.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-143" value="输出禁用权益组合基本信息管理策略结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-143" value="输出禁用权益组合基本信息管理策略结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" parent="LLtBhsj_NUratORO6nNz-1" edge="1">
           <mxGeometry x="0.0363" relative="1" as="geometry">
             <mxPoint x="487.00000000000045" y="1640" as="sourcePoint" />
             <mxPoint x="184" y="1640.0100000000002" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-144" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-144" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="LLtBhsj_NUratORO6nNz-1" vertex="1">
           <mxGeometry x="494" y="1720" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-145" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-145" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="LLtBhsj_NUratORO6nNz-1" vertex="1">
           <mxGeometry x="814" y="1740" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-146" value="输入导入权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="LLtBhsj_NUratORO6nNz-1" target="f_pHgnO4XXwjE385aZXs-144">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-146" value="输入导入权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="LLtBhsj_NUratORO6nNz-1" target="f_pHgnO4XXwjE385aZXs-144" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="184" y="1720" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-147" value="写入数据库导入的权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="LLtBhsj_NUratORO6nNz-1" source="f_pHgnO4XXwjE385aZXs-144" target="f_pHgnO4XXwjE385aZXs-145">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-147" value="写入数据库导入的权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="LLtBhsj_NUratORO6nNz-1" source="f_pHgnO4XXwjE385aZXs-144" target="f_pHgnO4XXwjE385aZXs-145" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="579" y="1740" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-148" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-148" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="LLtBhsj_NUratORO6nNz-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="809" y="1809.0000000000005" as="sourcePoint" />
             <mxPoint x="509" y="1809.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-149" value="输出导入权益组合基本信息管理策略结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-149" value="输出导入权益组合基本信息管理策略结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" parent="LLtBhsj_NUratORO6nNz-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="487.00000000000045" y="1880" as="sourcePoint" />
             <mxPoint x="184" y="1880.0100000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-150" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-150" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="LLtBhsj_NUratORO6nNz-1" vertex="1">
           <mxGeometry x="494" y="1970" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-151" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-151" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="LLtBhsj_NUratORO6nNz-1" vertex="1">
           <mxGeometry x="814" y="1990" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-152" value="输入下载权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="LLtBhsj_NUratORO6nNz-1" target="f_pHgnO4XXwjE385aZXs-150">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-152" value="输入下载权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="LLtBhsj_NUratORO6nNz-1" target="f_pHgnO4XXwjE385aZXs-150" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="184" y="1970" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-153" value="写入数据库下载的权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="LLtBhsj_NUratORO6nNz-1" source="f_pHgnO4XXwjE385aZXs-150" target="f_pHgnO4XXwjE385aZXs-151">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-153" value="写入数据库下载的权益组合基本信息管理策略信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="LLtBhsj_NUratORO6nNz-1" source="f_pHgnO4XXwjE385aZXs-150" target="f_pHgnO4XXwjE385aZXs-151" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="579" y="1990" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-154" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-154" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="LLtBhsj_NUratORO6nNz-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="809" y="2059.0000000000005" as="sourcePoint" />
             <mxPoint x="509" y="2059.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-155" value="输出下载权益组合基本信息管理策略结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-155" value="输出下载权益组合基本信息管理策略结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" parent="LLtBhsj_NUratORO6nNz-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="487.00000000000045" y="2130" as="sourcePoint" />
             <mxPoint x="184" y="2130.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-156" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-156" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="LLtBhsj_NUratORO6nNz-1" vertex="1">
           <mxGeometry x="494" y="2210" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-157" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-157" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="LLtBhsj_NUratORO6nNz-1" vertex="1">
           <mxGeometry x="814" y="2230" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-158" value="输入权益组合基本信息管理策略列表信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="LLtBhsj_NUratORO6nNz-1" target="f_pHgnO4XXwjE385aZXs-156">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-158" value="输入权益组合基本信息管理策略列表信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="LLtBhsj_NUratORO6nNz-1" target="f_pHgnO4XXwjE385aZXs-156" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="184" y="2210" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-159" value="读取数据库权益组合基本信息管理策略列表信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="LLtBhsj_NUratORO6nNz-1" source="f_pHgnO4XXwjE385aZXs-156" target="f_pHgnO4XXwjE385aZXs-157">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-159" value="读取数据库权益组合基本信息管理策略列表信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="LLtBhsj_NUratORO6nNz-1" source="f_pHgnO4XXwjE385aZXs-156" target="f_pHgnO4XXwjE385aZXs-157" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="579" y="2230" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-160" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-160" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="LLtBhsj_NUratORO6nNz-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="809" y="2299" as="sourcePoint" />
             <mxPoint x="509" y="2299" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-161" value="输出权益组合基本信息管理策略列表信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-161" value="输出权益组合基本信息管理策略列表信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" parent="LLtBhsj_NUratORO6nNz-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="487.00000000000045" y="2370" as="sourcePoint" />
             <mxPoint x="184" y="2370.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-162" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-162" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="LLtBhsj_NUratORO6nNz-1" vertex="1">
           <mxGeometry x="494" y="2451" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-163" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-163" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="LLtBhsj_NUratORO6nNz-1" vertex="1">
           <mxGeometry x="814" y="2471" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-164" value="输入权益组合基本信息管理策略分页信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="LLtBhsj_NUratORO6nNz-1" target="f_pHgnO4XXwjE385aZXs-162">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-164" value="输入权益组合基本信息管理策略分页信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="LLtBhsj_NUratORO6nNz-1" target="f_pHgnO4XXwjE385aZXs-162" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="184" y="2451.166666666667" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-165" value="读取数据库权益组合基本信息管理策略分页信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="LLtBhsj_NUratORO6nNz-1" source="f_pHgnO4XXwjE385aZXs-162" target="f_pHgnO4XXwjE385aZXs-163">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-165" value="读取数据库权益组合基本信息管理策略分页信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="LLtBhsj_NUratORO6nNz-1" source="f_pHgnO4XXwjE385aZXs-162" target="f_pHgnO4XXwjE385aZXs-163" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="579" y="2471" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-166" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-166" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="LLtBhsj_NUratORO6nNz-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="809" y="2540" as="sourcePoint" />
             <mxPoint x="509" y="2540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-167" value="输出权益组合基本信息管理策略分页信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-167" value="输出权益组合基本信息管理策略分页信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" parent="LLtBhsj_NUratORO6nNz-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="487.00000000000045" y="2611" as="sourcePoint" />
             <mxPoint x="184" y="2611.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-168" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-168" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="LLtBhsj_NUratORO6nNz-1" vertex="1">
           <mxGeometry x="494" y="2691" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-169" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-169" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="LLtBhsj_NUratORO6nNz-1" vertex="1">
           <mxGeometry x="814" y="2711" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-170" value="输入权益组合基本信息管理策略导出信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="LLtBhsj_NUratORO6nNz-1" target="f_pHgnO4XXwjE385aZXs-168">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-170" value="输入权益组合基本信息管理策略导出信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="LLtBhsj_NUratORO6nNz-1" target="f_pHgnO4XXwjE385aZXs-168" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="184" y="2691" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-171" value="读取数据库权益组合基本信息管理策略导出信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="LLtBhsj_NUratORO6nNz-1" source="f_pHgnO4XXwjE385aZXs-168" target="f_pHgnO4XXwjE385aZXs-169">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-171" value="读取数据库权益组合基本信息管理策略导出信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="LLtBhsj_NUratORO6nNz-1" source="f_pHgnO4XXwjE385aZXs-168" target="f_pHgnO4XXwjE385aZXs-169" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="579" y="2711" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-172" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-172" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="LLtBhsj_NUratORO6nNz-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="809" y="2780" as="sourcePoint" />
             <mxPoint x="509" y="2780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-173" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-173" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" parent="LLtBhsj_NUratORO6nNz-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="487.00000000000045" y="2851" as="sourcePoint" />
             <mxPoint x="184" y="2851.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-174" value="输出权益组合基本信息管理策略导出信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f_pHgnO4XXwjE385aZXs-173">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-174" value="输出权益组合基本信息管理策略导出信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="f_pHgnO4XXwjE385aZXs-173" vertex="1" connectable="0">
           <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
             <mxPoint x="6" y="-10.010000000000002" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-175" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-175" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="LLtBhsj_NUratORO6nNz-1" vertex="1">
           <mxGeometry x="494" y="2931" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-176" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-176" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="LLtBhsj_NUratORO6nNz-1" vertex="1">
           <mxGeometry x="814" y="2951" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-177" value="输入权益组合基本信息管理策略审批信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="LLtBhsj_NUratORO6nNz-1" target="f_pHgnO4XXwjE385aZXs-175">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-177" value="输入权益组合基本信息管理策略审批信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="LLtBhsj_NUratORO6nNz-1" target="f_pHgnO4XXwjE385aZXs-175" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="184" y="2931" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-178" value="写入数据库权益组合基本信息管理策略审批信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="LLtBhsj_NUratORO6nNz-1" source="f_pHgnO4XXwjE385aZXs-175" target="f_pHgnO4XXwjE385aZXs-176">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-178" value="写入数据库权益组合基本信息管理策略审批信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="LLtBhsj_NUratORO6nNz-1" source="f_pHgnO4XXwjE385aZXs-175" target="f_pHgnO4XXwjE385aZXs-176" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="579" y="2951" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-179" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-179" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="LLtBhsj_NUratORO6nNz-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="809" y="3020" as="sourcePoint" />
             <mxPoint x="509" y="3020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-180" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-180" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" parent="LLtBhsj_NUratORO6nNz-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="487.00000000000045" y="3091" as="sourcePoint" />
             <mxPoint x="184" y="3091.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-181" value="输出权益组合基本信息管理策略审批结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f_pHgnO4XXwjE385aZXs-180">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-181" value="输出权益组合基本信息管理策略审批结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="f_pHgnO4XXwjE385aZXs-180" vertex="1" connectable="0">
           <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
             <mxPoint x="6" y="-10.010000000000002" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-182" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-182" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="LLtBhsj_NUratORO6nNz-1" vertex="1">
           <mxGeometry x="494" y="3241" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-183" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-183" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="LLtBhsj_NUratORO6nNz-1" vertex="1">
           <mxGeometry x="814" y="3261" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-184" value="输入权益组合基本信息管理策略审批记录信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="LLtBhsj_NUratORO6nNz-1" target="f_pHgnO4XXwjE385aZXs-182">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-184" value="输入权益组合基本信息管理策略审批记录信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="LLtBhsj_NUratORO6nNz-1" target="f_pHgnO4XXwjE385aZXs-182" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="184" y="3240.999999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-185" value="写入数据库权益组合基本信息管理策略审批记录信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="LLtBhsj_NUratORO6nNz-1" source="f_pHgnO4XXwjE385aZXs-182" target="f_pHgnO4XXwjE385aZXs-183">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-185" value="写入数据库权益组合基本信息管理策略审批记录信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="LLtBhsj_NUratORO6nNz-1" source="f_pHgnO4XXwjE385aZXs-182" target="f_pHgnO4XXwjE385aZXs-183" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="579" y="3261" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-186" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-186" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="LLtBhsj_NUratORO6nNz-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="809" y="3330" as="sourcePoint" />
             <mxPoint x="509" y="3330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-187" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-187" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" parent="LLtBhsj_NUratORO6nNz-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="487.00000000000045" y="3400.999999999999" as="sourcePoint" />
             <mxPoint x="184" y="3401.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-188" value="输出权益组合基本信息管理策略审批记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f_pHgnO4XXwjE385aZXs-187">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-188" value="输出权益组合基本信息管理策略审批记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="f_pHgnO4XXwjE385aZXs-187" vertex="1" connectable="0">
           <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
             <mxPoint x="6" y="-10.010000000000002" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-189" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-189" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="LLtBhsj_NUratORO6nNz-1" vertex="1">
           <mxGeometry x="494" y="3491" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-190" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-190" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="LLtBhsj_NUratORO6nNz-1" vertex="1">
           <mxGeometry x="814" y="3511" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-191" value="输入权益组合基本信息管理策略监控记录信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="LLtBhsj_NUratORO6nNz-1" target="f_pHgnO4XXwjE385aZXs-189">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-191" value="输入权益组合基本信息管理策略监控记录信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="LLtBhsj_NUratORO6nNz-1" target="f_pHgnO4XXwjE385aZXs-189" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="184" y="3490.999999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-192" value="写入数据库权益组合基本信息管理策略监控记录信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="LLtBhsj_NUratORO6nNz-1" source="f_pHgnO4XXwjE385aZXs-189" target="f_pHgnO4XXwjE385aZXs-190">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-192" value="写入数据库权益组合基本信息管理策略监控记录信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="LLtBhsj_NUratORO6nNz-1" source="f_pHgnO4XXwjE385aZXs-189" target="f_pHgnO4XXwjE385aZXs-190" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="579" y="3511" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-193" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-193" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="LLtBhsj_NUratORO6nNz-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="809" y="3580" as="sourcePoint" />
             <mxPoint x="509" y="3580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-194" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="LLtBhsj_NUratORO6nNz-1">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-194" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" parent="LLtBhsj_NUratORO6nNz-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="487.00000000000045" y="3650.999999999999" as="sourcePoint" />
             <mxPoint x="184" y="3651.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_pHgnO4XXwjE385aZXs-195" value="输出权益组合基本信息管理策略监控记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f_pHgnO4XXwjE385aZXs-194">
+        <mxCell id="f_pHgnO4XXwjE385aZXs-195" value="输出权益组合基本信息管理策略监控记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="f_pHgnO4XXwjE385aZXs-194" vertex="1" connectable="0">
           <mxGeometry x="0.1023" y="-1" relative="1" as="geometry">
             <mxPoint x="6" y="-10.010000000000002" as="offset" />
           </mxGeometry>
