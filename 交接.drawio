@@ -1,68 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2021-07-11T12:31:26.737Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="ApjQCymaL8zb8wofk4tD" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-13T01:29:17.633Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="vuWUjnY58n611isKj2ga" version="14.8.5" type="github">
   <diagram id="LIDO898XyXxkz2MdkQyp" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="O8eED3kUHGsYUlFL-acu-30" value="订单上链业务流程" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="24" y="9" width="780" height="1160" as="geometry" />
+        <mxCell id="O8eED3kUHGsYUlFL-acu-30" value="订单上链业务流程" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="24" y="10" width="780" height="1310" as="geometry" />
         </mxCell>
-        <mxCell id="O8eED3kUHGsYUlFL-acu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8eED3kUHGsYUlFL-acu-2" target="O8eED3kUHGsYUlFL-acu-3">
+        <mxCell id="O8eED3kUHGsYUlFL-acu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8eED3kUHGsYUlFL-acu-2" target="O8eED3kUHGsYUlFL-acu-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8eED3kUHGsYUlFL-acu-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="O8eED3kUHGsYUlFL-acu-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="365" y="30" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8eED3kUHGsYUlFL-acu-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8eED3kUHGsYUlFL-acu-3" target="O8eED3kUHGsYUlFL-acu-5">
+        <mxCell id="O8eED3kUHGsYUlFL-acu-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8eED3kUHGsYUlFL-acu-3" target="O8eED3kUHGsYUlFL-acu-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8eED3kUHGsYUlFL-acu-3" value="EXTB005接口，13类型权益包订购" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8eED3kUHGsYUlFL-acu-3" value="EXTB005接口，13类型权益包订购" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8eED3kUHGsYUlFL-acu-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8eED3kUHGsYUlFL-acu-5" target="O8eED3kUHGsYUlFL-acu-13">
+        <mxCell id="O8eED3kUHGsYUlFL-acu-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8eED3kUHGsYUlFL-acu-5" target="O8eED3kUHGsYUlFL-acu-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8eED3kUHGsYUlFL-acu-16" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8eED3kUHGsYUlFL-acu-5" target="O8eED3kUHGsYUlFL-acu-15">
+        <mxCell id="O8eED3kUHGsYUlFL-acu-16" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8eED3kUHGsYUlFL-acu-5" target="O8eED3kUHGsYUlFL-acu-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8eED3kUHGsYUlFL-acu-5" value="通过手机的归属省份判断是否有该省份的区块链账号" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="O8eED3kUHGsYUlFL-acu-5" value="通过手机的归属省份判断是否有该省份的区块链账号" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8eED3kUHGsYUlFL-acu-13" value="区块链的账号存在province_account表中，项目启动将区块链账号放入redis在initsRedisProvince方法中" style="shape=callout;rounded=1;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+        <mxCell id="O8eED3kUHGsYUlFL-acu-13" value="区块链的账号存在province_account表中，项目启动将区块链账号放入redis在initsRedisProvince方法中" style="shape=callout;rounded=1;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" parent="1" vertex="1">
           <mxGeometry x="520" y="330" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="O8eED3kUHGsYUlFL-acu-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8eED3kUHGsYUlFL-acu-15" target="O8eED3kUHGsYUlFL-acu-17">
+        <mxCell id="O8eED3kUHGsYUlFL-acu-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8eED3kUHGsYUlFL-acu-15" target="O8eED3kUHGsYUlFL-acu-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8eED3kUHGsYUlFL-acu-15" value="生成上链轨迹，并发送异步上链的mq,MessageOrderChainProducer,上链的初始状态为PD" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="O8eED3kUHGsYUlFL-acu-15" value="生成上链轨迹，并发送异步上链的mq,MessageOrderChainProducer,上链的初始状态为PD" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8eED3kUHGsYUlFL-acu-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8eED3kUHGsYUlFL-acu-17" target="O8eED3kUHGsYUlFL-acu-19">
+        <mxCell id="O8eED3kUHGsYUlFL-acu-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8eED3kUHGsYUlFL-acu-17" target="O8eED3kUHGsYUlFL-acu-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8eED3kUHGsYUlFL-acu-17" value="&amp;nbsp;对应的消费者收到消息后，根据上链结果，更新订单轨迹是否上链成功" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="O8eED3kUHGsYUlFL-acu-17" value="&amp;nbsp;对应的消费者收到消息后，根据上链结果，更新订单轨迹是否上链成功" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8eED3kUHGsYUlFL-acu-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8eED3kUHGsYUlFL-acu-19" target="O8eED3kUHGsYUlFL-acu-21">
+        <mxCell id="O8eED3kUHGsYUlFL-acu-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8eED3kUHGsYUlFL-acu-19" target="O8eED3kUHGsYUlFL-acu-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8eED3kUHGsYUlFL-acu-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8eED3kUHGsYUlFL-acu-19" target="O8eED3kUHGsYUlFL-acu-23">
+        <mxCell id="TgSypZV3gMfqTVR6FyDa-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8eED3kUHGsYUlFL-acu-19" target="TgSypZV3gMfqTVR6FyDa-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8eED3kUHGsYUlFL-acu-19" value="076通知省测扣费，更具通知结果，更新上链轨迹表中的076是否调用成功" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="O8eED3kUHGsYUlFL-acu-19" value="076通知省测扣费，更具通知结果，更新上链轨迹表中的076是否调用成功" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8eED3kUHGsYUlFL-acu-21" value="对应代码在orderChecked方法中" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="O8eED3kUHGsYUlFL-acu-21" value="对应代码在orderChecked方法中" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8eED3kUHGsYUlFL-acu-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8eED3kUHGsYUlFL-acu-23" target="O8eED3kUHGsYUlFL-acu-27">
+        <mxCell id="O8eED3kUHGsYUlFL-acu-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8eED3kUHGsYUlFL-acu-23" target="O8eED3kUHGsYUlFL-acu-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8eED3kUHGsYUlFL-acu-23" value="定时任务模块QklTask类的queryChainOrderByTime方法，拉取链上数据，如果发现省测更改状态为PS,或者PU的话，更新对应的订单上链轨迹表" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="900" width="120" height="120" as="geometry" />
+        <mxCell id="O8eED3kUHGsYUlFL-acu-23" value="定时任务模块QklTask类的queryChainOrderByTime方法，拉取链上数据，如果发现省测更改状态为PS,或者PU的话，更新对应的订单上链轨迹表" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="1040" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="O8eED3kUHGsYUlFL-acu-27" value="业务流程结束" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
-          <mxGeometry x="340" y="1100" width="80" height="30" as="geometry" />
+        <mxCell id="O8eED3kUHGsYUlFL-acu-27" value="业务流程结束" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start" parent="1" vertex="1">
+          <mxGeometry x="340" y="1240" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TgSypZV3gMfqTVR6FyDa-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgSypZV3gMfqTVR6FyDa-1" target="O8eED3kUHGsYUlFL-acu-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TgSypZV3gMfqTVR6FyDa-1" value="省测收到扣费通知，进行扣费，同时处理更新链上的数据，将状态更新为PU或者PS" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="900" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
