@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-07-13T01:48:17.412Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="Wsfpz8dNgRuAq9hr1yKB" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-14T06:04:26.782Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="_PbONqJTzc5XYkpF4pSv" version="14.8.5" type="github">
   <diagram id="LIDO898XyXxkz2MdkQyp" name="Page-1">
-    <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="942" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="O8eED3kUHGsYUlFL-acu-30" value="订单上链业务流程" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="20" width="780" height="1250" as="geometry" />
+          <mxGeometry x="20" y="20" width="780" height="1300" as="geometry" />
         </mxCell>
         <mxCell id="O8eED3kUHGsYUlFL-acu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8eED3kUHGsYUlFL-acu-2" target="O8eED3kUHGsYUlFL-acu-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -64,11 +64,11 @@
         <mxCell id="O8eED3kUHGsYUlFL-acu-27" value="业务流程结束" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start" parent="1" vertex="1">
           <mxGeometry x="340" y="1190" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TgSypZV3gMfqTVR6FyDa-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.617;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TgSypZV3gMfqTVR6FyDa-1" target="O8eED3kUHGsYUlFL-acu-23">
+        <mxCell id="TgSypZV3gMfqTVR6FyDa-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TgSypZV3gMfqTVR6FyDa-1" target="O8eED3kUHGsYUlFL-acu-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TgSypZV3gMfqTVR6FyDa-1" value="省测收到扣费通知，进行扣费，同时处理更新链上的数据，将状态更新为PU或者PS" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="890" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
